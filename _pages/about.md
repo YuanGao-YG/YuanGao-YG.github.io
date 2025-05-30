@@ -22,9 +22,8 @@ Yu Guo is currently pursuing Ph.D. degree in School of Science at Tsinghua Unive
 
 # 🔥 News
 
-- **2025.05**: &nbsp;🎉 One paper has been accepted by **<a href="https://icml.cc/">ICML 2025</a>**.
-- **2024.07**: &nbsp;🎉 Two papers have been accepted by **<a href="https://eccv.ecva.net/">ECCV 2024</a>**.
-- **2024.04**: &nbsp;🎉 The constructed **[FVessel dataset](https://github.com/gy65896/FVessel)** is included in the **[CVonline: Image Databases](https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)** at the University of Edinburgh.
+- **2025.05**: &nbsp;🎉 One paper has been accepted by **<a href="https://icml.cc/">ICML 2025</a>** (First Author).
+- **2024.07**: &nbsp;🎉 Two papers have been accepted by **<a href="https://eccv.ecva.net/">ECCV 2024</a>** (Co-first Author).
 
 # 📝 Publications
 
