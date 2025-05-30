@@ -88,7 +88,7 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 # 🎖 Honors and Awards
 
 * <b>National Scholarship</b><b></b>, 2023.
-* <b>Top Grade Scholarship</b><b>(the highest scholarship for undergraduate students)</b>, 2023.
+* <b>Top Grade Scholarship</b><b>(the highest scholarship for undergraduate students)</b>, 2022.
 * <b>National Scholarship</b><b></b>, 2021.
 
 # 📖 Educations
