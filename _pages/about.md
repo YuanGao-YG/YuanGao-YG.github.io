@@ -54,15 +54,15 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">2025</p>
 
-- *Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang, [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](), **ICML 2025**
+- *Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>, [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](), **ICML 2025**
 
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">2024</p>
 
 - Yu Guo<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen Liu<sup>*</sup>, Shengfeng He<sup>*</sup>, [OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621), **ECCV 2024** 
-- Ryan Wen Liu, Yuxu Lu<sup>*</sup>, **Yuan Gao**, Yu Guo, Wenqi Ren, Fenghua Zhu, Fei-Yue Wang, [Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions](https://ieeexplore.ieee.org/abstract/document/10682473/), **IEEE TITS**
+- Ryan Wen Liu, Yuxu Lu<sup>*</sup>, **Yuan Gao**, Yu Guo, Wenqi Ren, Fenghua Zhu<sup>*</sup>, Fei-Yue Wang, [Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions](https://ieeexplore.ieee.org/abstract/document/10682473/), **IEEE TITS**
 - Wenyu Xu, Dong Yang<sup>*</sup>, **Yuan Gao**, Yuxu Lu<sup>*</sup>, Jingming Zhang, Yu Guo, [MvKSR: Multi-view Knowledge-guided Scene Recovery for Hazy and Rainy Degradation](https://ieeexplore.ieee.org/abstract/document/10598186/), **IEEE TIM**
-- Yuxu Lu, Dong Yang, **Yuan Gao**, Ryan Wen Liu, Jun Liu, Yu Guo, [AoSRNet: All-in-One Scene Recovery Networks via Multi-knowledge Integration](https://www.sciencedirect.com/science/article/pii/S0950705124004209), **KBS**
-- Jingxiang Qu, Ryan Wen Liu, **Yuan Gao**, Yu Guo, Fenghua Zhu, Fei-Yue Wang, [Double Domain Guided Real-time Low-light Image Enhancement for Ultra-high-definition Transportation Surveillance](https://ieeexplore.ieee.org/abstract/document/10423894/), **IEEE TITS**
+- Yuxu Lu, Dong Yang<sup>*</sup>, **Yuan Gao**, Ryan Wen Liu, Jun Liu, Yu Guo, [AoSRNet: All-in-One Scene Recovery Networks via Multi-knowledge Integration](https://www.sciencedirect.com/science/article/pii/S0950705124004209), **KBS**
+- Jingxiang Qu, Ryan Wen Liu<sup>*</sup>, **Yuan Gao**, Yu Guo, Fenghua Zhu, Fei-Yue Wang, [Double Domain Guided Real-time Low-light Image Enhancement for Ultra-high-definition Transportation Surveillance](https://ieeexplore.ieee.org/abstract/document/10423894/), **IEEE TITS**
 
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">2023</p>
 
