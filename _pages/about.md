@@ -36,18 +36,6 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 
 <p style="text-align: left; font-weight: bold; font-size: 1.2em; margin-bottom: -0.5em;">Representative Works († means equal contribution, * means corrspongding author)</p>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='papers/arXiv_NeuralOM/fig_main.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020)
-
-**Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Hao Wu<sup>†</sup>, Fan Xu, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Xiaomeng Huang<sup>*</sup>
-
-<a href="https://arxiv.org/abs/2505.21020" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/NeuralOM" target="_blank">Code</a>
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='papers/arXiv_Ocean-E2E/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,6 +44,18 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 Ruiqi Shu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruijian Gou, Yanfei Xiang, Fan Xu, Qingsong Wen, Xian Wu, Xiaomeng Huang<sup>*</sup>
 
 <a href="https://arxiv.org/abs/2505.22071" target="_blank">Paper</a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='papers/arXiv_NeuralOM/fig_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020)
+
+**Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Hao Wu<sup>†</sup>, Fan Xu, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Xiaomeng Huang<sup>*</sup>
+
+<a href="https://arxiv.org/abs/2505.21020" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/NeuralOM" target="_blank">Code</a>
 
 </div>
 </div>
