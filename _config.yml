@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=4JpRnU4AAAAJ&hl=zh-CN"
   email            : "yuangao24@mails.tsinghua.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/Yuan-Gao-354?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Yuan-Gao-354?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "YuanGao-YG"
+  github           : "YuanGao-YG"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "0000-0001-7730-0421"
+  orcid            : "0000-0001-7730-0421"
   pinterest        :
   soundcloud       :
   stackoverflow    :
