@@ -36,6 +36,19 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 
 <p style="text-align: left; font-weight: bold; font-size: 1.2em; margin-bottom: -0.5em;">Representative Works († means equal contribution, * means corrspongding author)</p>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='papers/arXiv_Triton/fig_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Advanced long-term earth system forecasting by learning the small-scale nature](https://arxiv.org/abs/2505.19432)
+
+Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, Fan Xu, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>
+
+<a href="https://arxiv.org/abs/2505.19432" target="_blank">Paper</a> | <a href="https://github.com/easylearningscores/Triton_AI4Earth" target="_blank">Code</a>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='papers/ICML2025_OneForecast/icml_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
