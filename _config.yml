@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuan Gao"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Yuan Gao | 高远"
+  avatar           : "images/avatar.jpg"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
