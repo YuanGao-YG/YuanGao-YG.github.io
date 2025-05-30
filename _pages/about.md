@@ -115,6 +115,18 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun W
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='papers/arXiv_NeuralOM/fig_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Let You See in Haze and Sandstorm: Two-in-One Low-visibility Enhancement Network](https://ieeexplore.ieee.org/abstract/document/10216344)
+
+**Yuan Gao**<sup>†</sup>, Wenyu Xu<sup>†</sup>, Yuxu Lu<sup>*</sup>
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10216344" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/TOENet" target="_blank">Code</a>
+
+</div>
+</div>
+
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">2025</p>
 
 - Ruiqi Shu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruijian Gou, Yanfei Xiang, Fan Xu, Qingsong Wen, Xian Wu, Xiaomeng Huang<sup>*</sup>, [Ocean-E2E: Hybrid Physics-Based and Data-Driven Global Forecasting of Extreme Marine Heatwaves with End-to-End Neural Assimilation](https://arxiv.org/abs/2505.22071), **arXiv**
@@ -133,8 +145,9 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun W
 
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">2023</p>
 
+- **Yuan Gao**<sup>†</sup>, Wenyu Xu<sup>†</sup>, Yuxu Lu<sup>*</sup>, [Let You See in Haze and Sandstorm: Two-in-One Low-Visibility Enhancement Network](https://ieeexplore.ieee.org/abstract/document/10216344), **IEEE TIM**
 - Yu Guo, **Yuan Gao**, Wen Liu, Yuxu Lu, Jingxiang Qu, Shengfeng He, Wenqi Ren, [SCANet: Self-paced Semi-curricular Attention Network for Non-homogeneous Image Dehazing](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Guo_SCANet_Self-Paced_Semi-Curricular_Attention_Network_for_Non-Homogeneous_Image_Dehazing_CVPRW_2023_paper.html), **CVPRW 2023**
-- Jingxiang Qu, **Yuan Gao**, Yuxu Lu, Wenyu Xu, Ryan Wen Liu, [Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weathers] (https://www.sciencedirect.com/science/article/pii/S0964569123000030), **OCMA**
+- Jingxiang Qu, **Yuan Gao**, Yuxu Lu, Wenyu Xu, Ryan Wen Liu, [Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weathers](https://www.sciencedirect.com/science/article/pii/S0964569123000030), **OCMA**
 
 # 🎖 Honors and Awards
 
