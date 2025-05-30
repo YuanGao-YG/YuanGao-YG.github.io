@@ -67,10 +67,13 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">2023</p>
 
 - Yu Guo, **Yuan Gao**, Wen Liu, Yuxu Lu, Jingxiang Qu, Shengfeng He, Wenqi Ren, [SCANet: Self-paced Semi-curricular Attention Network for Non-homogeneous Image Dehazing](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Guo_SCANet_Self-Paced_Semi-Curricular_Attention_Network_for_Non-Homogeneous_Image_Dehazing_CVPRW_2023_paper.html), **CVPRW 2023**
+- Jingxiang Qu, **Yuan Gao**, Yuxu Lu, Wenyu Xu, Ryan Wen Liu, [Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weathers] (https://www.sciencedirect.com/science/article/pii/S0964569123000030), **OCMA**
 
 # 🎖 Honors and Awards
 
-* <b>Ph.D. National Scholarship</b> <b></b>.
+* <b>National Scholarship</b><b></b>, 2023.
+* <b>Top Grade Scholarship</b><b>(the highest scholarship for undergraduate students)</b>, 2023.
+* <b>National Scholarship</b><b></b>, 2021.
 
 # 📖 Educations
 
