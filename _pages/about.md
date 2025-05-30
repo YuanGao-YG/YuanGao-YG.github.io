@@ -52,19 +52,6 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS 2023</div><img src='papers/TITS2023_DeepSORVF/method.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Asynchronous Trajectory Matching-based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways](https://arxiv.org/abs/2407.04621)
-
-<strong>Yu Guo</strong>, Ryan Wen Liu, Jingxiang Qu, Yuxu Lu, Fenghua Zhu, Yisheng Lv
-
-[**Project**](https://gy65896.github.io/projects/TITS2023_DeepSORVF/index.html)
-
-<a href="https://ieeexplore.ieee.org/document/10159572" target="_blank">Paper</a> | <a href="https://github.com/gy65896/DeepSORVF" target="_blank">Code</a> <img src="https://img.shields.io/github/stars/gy65896/DeepSORVF?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/gy65896/DeepSORVF?label=%F0%9F%94%A7%20Fork&color=green"> | <a href="https://github.com/gy65896/FVessel" target="_blank">Dataset</a> <img src="https://img.shields.io/github/stars/gy65896/FVessel?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/gy65896/FVessel?label=%F0%9F%94%A7%20Fork&color=green">
-</div>
-</div>
-
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">2025</p>
 
 - Junhang Li<sup>†</sup>, **Yu Guo**<sup>†</sup>, Chuhua Xian, Shengfeng He, [Instruct2See: Learning to Remove Any Obstructions Across Distributions](), **ICML 2025**
