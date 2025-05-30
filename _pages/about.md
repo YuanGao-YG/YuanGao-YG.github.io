@@ -36,6 +36,18 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 
 <p style="text-align: left; font-weight: bold; font-size: 1.2em; margin-bottom: -0.5em;">Representative Works († means equal contribution, * means corrspongding author)</p>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='papers/ICML2025_OneForecast/icml_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://arxiv.org/abs/2502.00338)
+
+**Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
+
+<a href="https://arxiv.org/abs/2502.00338" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/OneForecast" target="_blank">Code</a> <img src="https://img.shields.io/github/stars/gy65896/OneRestore?label=%F0%9F%8C%9F%20Star&color=blue">
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='papers/ECCV2024_OneRestore/abstract.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
