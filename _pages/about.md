@@ -74,15 +74,11 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 
 # 📖 Educations
 
-* **🎓 Ph.D. in Traffic Information Engineering and Control, 2021 - Now**
+* **🎓 Ph.D. in School of Science, 2024 - Now**
 
-<span style="color:darkgray; padding-left: 4em;">Wuhan University of Technology, Wuhan, China</span>
+<span style="color:darkgray; padding-left: 4em;">Tsinghua University, Beijing, China</span>
 
-* **🎓 Joint Ph.D. in Computing and Information Systems, 2023 - 2024**
-
-<span style="color:darkgray; padding-left: 4em;">Singapore Management Unversity, Singapore</span>
-
-* **🎓 B.Sc. in Naval Architecture and Ocean Engineering, 2017 - 2021**
+* **🎓 B.Sc. in School of Navigation, 2020 - 2024**
 
 <span style="color:darkgray; padding-left: 4em;">Wuhan University of Technology, Wuhan, China
 
