@@ -115,7 +115,7 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun W
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='papers/arXiv_NeuralOM/fig_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='papers/TIM_TOENet/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Let You See in Haze and Sandstorm: Two-in-One Low-visibility Enhancement Network](https://ieeexplore.ieee.org/abstract/document/10216344)
