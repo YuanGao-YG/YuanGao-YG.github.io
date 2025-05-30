@@ -17,13 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <div style="text-align: justify;">
-Yu Guo is currently pursuing Ph.D. degree in School of Science at Tsinghua University.    He received B.Sc. degree in School of Navigation from the Wuhan University of Technology, in 2024   <br><br>   His research interests include AI for Science and Computer Vision.    He has published over 10 papers at the top international conferences and journals    (<a href='https://scholar.google.com.hk/citations?user=4JpRnU4AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url\_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)  such as ICML, ECCV, IEEE TITS, IEEE TIM, KBS, OCMA. He has also served as a reviewer of multiple conferences and journals,    including IEEE TITS, Neural Networks.   <br><br><strong>I am actively seeking like-minded collaborators.</strong>    If you are interested in my work, please feel free to contact me via email:    yuangao24@mails.tsinghua.edu.cn.
+Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua University.    He received B.Sc. degree in School of Navigation from the Wuhan University of Technology, in 2024   <br><br>   His research interests include AI for Science and Computer Vision.    He has published over 10 papers at the top international conferences and journals    (<a href='https://scholar.google.com.hk/citations?user=4JpRnU4AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url\_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)  such as ICML, ECCV, IEEE TITS, IEEE TIM, KBS, OCMA. He has also served as a reviewer of multiple conferences and journals,    including IEEE TITS, Neural Networks.   <br><br><strong>I am actively seeking like-minded collaborators.</strong>    If you are interested in my work, please feel free to contact me via email:    yuangao24@mails.tsinghua.edu.cn.
 </div>
 
 # 🔥 News
 
 - **2025.05**: &nbsp;🎉 One paper has been accepted by **<a href="https://icml.cc/">ICML 2025</a>** (First Author).
+- **2024.09**: &nbsp;🎉 One paper have been accepted by **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979/">IEEE TITS</a>**.
 - **2024.07**: &nbsp;🎉 One paper has been accepted by **<a href="https://eccv.ecva.net/">ECCV 2024</a>** (Co-first Author).
+- **2024.06**: &nbsp;🎉 One paper have been accepted by **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19/">IEEE TIM</a>** (First Author).
+- **2024.04**: &nbsp;🎉 One paper has been accepted by **<a href="https://www.sciencedirect.com/journal/knowledge-based-systems/">KBS</a>**.
+- **2023.08**: &nbsp;🎉 One paper have been accepted by **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979/">IEEE TITS</a>**.
 - **2023.07**: &nbsp;🎉 One paper have been accepted by **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19/">IEEE TIM</a>** (First Author).
 - **2023.01**: &nbsp;🎉 One paper have been accepted by **<a href="https://www.sciencedirect.com/journal/ocean-and-coastal-management/">OCMA</a>** (Co-first Author).
 
