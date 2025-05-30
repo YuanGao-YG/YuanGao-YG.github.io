@@ -42,7 +42,7 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 
 [OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621)
 
-<strong>Yu Guo</strong><sup>†</sup>, Yuan Gao<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen Liu, Shengfeng He
+<strong>Yu Guo</strong><sup>†</sup>, Yuan Gao<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen Liu<sup>*</sup>, Shengfeng He<sup>*</sup>
 
 [**Project**](https://gy65896.github.io/projects/ECCV2024_OneRestore/index.html)
 
@@ -54,7 +54,9 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">2025</p>
 
-- *Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>, [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](), **ICML 2025**
+- Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, Fan Xu, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>, [Advanced long-term earth system forecasting by learning the small-scale nature
+]([https://arxiv.org/abs/2502.00338](https://arxiv.org/abs/2505.19432)), **arXiv**
+- **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>, [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://arxiv.org/abs/2502.00338), **ICML 2025**
 
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">2024</p>
 
