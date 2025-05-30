@@ -36,7 +36,7 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 
 <p style="text-align: left; font-weight: bold; font-size: 1.2em; margin-bottom: -0.5em;">Representative Works († means equal contribution, * means corrspongding author)</p>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='papers/arXiv_Triton/fig_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='papers/arXiv_Triton/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Advanced long-term earth system forecasting by learning the small-scale nature](https://arxiv.org/abs/2505.19432)
