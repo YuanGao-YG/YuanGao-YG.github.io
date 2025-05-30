@@ -70,7 +70,7 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 
 # 🎖 Honors and Awards
 
-* <b>Ph.D. National Scholarship</b> <b>(Top 1%)</b>, 2023, Rank: 1.
+* <b>Ph.D. National Scholarship</b> <b></b>.
 
 # 📖 Educations
 
@@ -81,14 +81,4 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 * **🎓 B.Sc. in School of Navigation, 2020 - 2024**
 
 <span style="color:darkgray; padding-left: 4em;">Wuhan University of Technology, Wuhan, China
-
-# 💻 Internships
-
-* **📝 Research Assistant, 2024.10 - Now**
-
-<span style="color:darkgray; padding-left: 4em;">City University of Hong Kong, Hong Kong, China
-
-* **📝 Remote Intern, 2024.07 - 2024.10**
-
-<span style="color:darkgray; padding-left: 4em;">City University of Hong Kong, Hong Kong, China
 
