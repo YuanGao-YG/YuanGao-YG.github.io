@@ -70,42 +70,14 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science at Tsinghua Uni
 
 # 🎖 Honors and Awards
 
-* <b>Ph.D. National Scholarship</b> <b>(Top 1%)</b>, 2023, Rank: 1.
-* <b>National Third Prize</b> of the China Graduate Robot Innovation Design Competition, 2023, Rank: 3.
-* <b>National Second Prize</b> of the China Intelligent Unmanned Boat Search and Rescue Competition, 2023, Rank: 5.
-* <b>First Prize</b> of the Smart Shipping and Crew Quality Training Seminar Workshop, 2023, Rank: 1.
-* <b>Third Prize</b> of the Smart Shipping and Crew Quality Training Seminar Workshop, 2023, Rank: 4.
-* <b>Provincial Science & Technology Progress</b> <b>Second Prize</b> of China Institute of Navigation, 2023, Rank: 9.
-* <b>Best Paper Award</b> of the AAAI-2022 Workshop: AI for Transportation, 2022, Rank: 1.
-* <b>Excellent Undergraduate Thesis</b> of WHUT <b>(Top 3%)</b>, 2021, Rank: 1.
-* <b>Excellent Undergraduate Graduate</b> of WHUT, 2021, Rank: 1.
-* <b>Excellent Completion</b> of the National Undergraduate Innovation and Entrepreneurship Training Program, 2021, Rank: 2.
-* <b>Hubei Provincial Silver Award</b> of the China International College Students "Internet+" Innovation and Entrepreneurship Competition, 2020, Rank: 1.
-* <b>National Grand Prize</b> of the China Ocean Vehicle Design and Production Competition, 2020, Rank: 1.
-* <b>National First Prize</b> of the China Ocean Vehicle Design and Production Competition, 2020, Rank: 3.
-* <b>National Third Prize</b> of the China Undergraduate Computer Design Competition, 2020, Rank: 2.
+* <b>National Scholarship</b>, 2021.
 
 # 📖 Educations
 
-* **🎓 Ph.D. in Traffic Information Engineering and Control, 2021 - Now**
+* **🎓 Ph.D. in School of Science, 2024 - Now**
 
-<span style="color:darkgray; padding-left: 4em;">Wuhan University of Technology, Wuhan, China</span>
+<span style="color:darkgray; padding-left: 4em;">Tsinghua University, Beijing, China</span>
 
-* **🎓 Joint Ph.D. in Computing and Information Systems, 2023 - 2024**
-
-<span style="color:darkgray; padding-left: 4em;">Singapore Management Unversity, Singapore</span>
-
-* **🎓 B.Sc. in Naval Architecture and Ocean Engineering, 2017 - 2021**
+* **🎓 B.Sc. in School of Navigation, 2020 - 2024**
 
 <span style="color:darkgray; padding-left: 4em;">Wuhan University of Technology, Wuhan, China
-
-# 💻 Internships
-
-* **📝 Research Assistant, 2024.10 - Now**
-
-<span style="color:darkgray; padding-left: 4em;">City University of Hong Kong, Hong Kong, China
-
-* **📝 Remote Intern, 2024.07 - 2024.10**
-
-<span style="color:darkgray; padding-left: 4em;">City University of Hong Kong, Hong Kong, China
-
