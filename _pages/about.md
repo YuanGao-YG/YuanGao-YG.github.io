@@ -127,6 +127,18 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun W
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OCMA</div><img src='papers/OCMA_LPSNet/fig_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weather](https://www.sciencedirect.com/science/article/pii/S0964569123000030)
+
+Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wenyu Xu, Ryan Wen Liu<sup>*</sup>
+
+<a href="https://www.sciencedirect.com/science/article/pii/S0964569123000030" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/LPSNet" target="_blank">Code</a>
+
+</div>
+</div>
+
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">AI for Science</p>
 
 - Ruiqi Shu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruijian Gou, Yanfei Xiang, Fan Xu, Qingsong Wen, Xian Wu, Xiaomeng Huang<sup>*</sup>, [Ocean-E2E: Hybrid Physics-Based and Data-Driven Global Forecasting of Extreme Marine Heatwaves with End-to-End Neural Assimilation](https://arxiv.org/abs/2505.22071), **arXiv**
