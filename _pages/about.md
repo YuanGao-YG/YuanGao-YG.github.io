@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <div style="text-align: justify;">
-Yuan Gao is currently pursuing Ph.D. degree in School of Science, Tsinghua University. He received B.Sc. degree in School of Navigation from the Wuhan University of Technology, in 2024   <br><br>   His research interests include AI for Science and Computer Vision.    He has published over 10 papers at the top international conferences and journals    (<a href='https://scholar.google.com.hk/citations?user=4JpRnU4AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url\_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)  such as ICML, ECCV, IEEE TITS, IEEE TIM, KBS, OCMA. He has also served as a reviewer of multiple conferences and journals,    including IEEE TITS, Neural Networks.   <br><br><strong>I am actively seeking like-minded collaborators.</strong>    If you are interested in my work, please feel free to contact me via email:    yuangao24@mails.tsinghua.edu.cn.
+Yuan Gao is currently pursuing Ph.D. degree in School of Science, Tsinghua University. He received B.Sc. degree in School of Navigation from the Wuhan University of Technology, in 2024.   <br><br>   His research interests include AI for Science and Computer Vision.    He has published over 10 papers at the top international conferences and journals    (<a href='https://scholar.google.com.hk/citations?user=4JpRnU4AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url\_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)  such as ICML, ECCV, IEEE TITS, IEEE TIM, KBS, OCMA. He has also served as a reviewer of multiple conferences and journals,    including IEEE TITS, Neural Networks.   <br><br><strong>I am actively seeking like-minded collaborators.</strong>    If you are interested in my work, please feel free to contact me via email:    yuangao24@mails.tsinghua.edu.cn.
 </div>
 
 # 🔥 News
@@ -127,7 +127,7 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun W
 </div>
 </div>
 
-<p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">2025</p>
+<p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">AI for Science</p>
 
 - Ruiqi Shu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruijian Gou, Yanfei Xiang, Fan Xu, Qingsong Wen, Xian Wu, Xiaomeng Huang<sup>*</sup>, [Ocean-E2E: Hybrid Physics-Based and Data-Driven Global Forecasting of Extreme Marine Heatwaves with End-to-End Neural Assimilation](https://arxiv.org/abs/2505.22071), **arXiv**
 - **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Hao Wu<sup>†</sup>, Fan Xu, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Xiaomeng Huang<sup>*</sup>, [NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020), **arXiv**
@@ -135,16 +135,13 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun W
 - Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, Fan Xu, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>, [Advanced long-term earth system forecasting by learning the small-scale nature](https://arxiv.org/abs/2505.19432), **arXiv**
 - **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>, [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://arxiv.org/abs/2502.00338), **ICML 2025**
 
-<p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">2024</p>
+<p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">Computer Vision</p>
 
 - Yu Guo<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen Liu<sup>*</sup>, Shengfeng He<sup>*</sup>, [OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621), **ECCV 2024** 
 - Ryan Wen Liu, Yuxu Lu<sup>*</sup>, **Yuan Gao**, Yu Guo, Wenqi Ren, Fenghua Zhu<sup>*</sup>, Fei-Yue Wang, [Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions](https://ieeexplore.ieee.org/abstract/document/10682473/), **IEEE TITS**
 - Wenyu Xu, Dong Yang<sup>*</sup>, **Yuan Gao**, Yuxu Lu<sup>*</sup>, Jingming Zhang, Yu Guo, [MvKSR: Multi-view Knowledge-guided Scene Recovery for Hazy and Rainy Degradation](https://ieeexplore.ieee.org/abstract/document/10598186/), **IEEE TIM**
 - Yuxu Lu, Dong Yang<sup>*</sup>, **Yuan Gao**, Ryan Wen Liu, Jun Liu, Yu Guo, [AoSRNet: All-in-One Scene Recovery Networks via Multi-knowledge Integration](https://www.sciencedirect.com/science/article/pii/S0950705124004209), **KBS**
 - Jingxiang Qu, Ryan Wen Liu<sup>*</sup>, **Yuan Gao**, Yu Guo, Fenghua Zhu, Fei-Yue Wang, [Double Domain Guided Real-time Low-light Image Enhancement for Ultra-high-definition Transportation Surveillance](https://ieeexplore.ieee.org/abstract/document/10423894/), **IEEE TITS**
-
-<p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">2023</p>
-
 - **Yuan Gao**<sup>†</sup>, Wenyu Xu<sup>†</sup>, Yuxu Lu<sup>*</sup>, [Let You See in Haze and Sandstorm: Two-in-One Low-Visibility Enhancement Network](https://ieeexplore.ieee.org/abstract/document/10216344), **IEEE TIM**
 - Yu Guo, **Yuan Gao**, Wen Liu, Yuxu Lu, Jingxiang Qu, Shengfeng He, Wenqi Ren, [SCANet: Self-paced Semi-curricular Attention Network for Non-homogeneous Image Dehazing](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Guo_SCANet_Self-Paced_Semi-Curricular_Attention_Network_for_Non-Homogeneous_Image_Dehazing_CVPRW_2023_paper.html), **CVPRW 2023**
 - Jingxiang Qu, **Yuan Gao**, Yuxu Lu, Wenyu Xu, Ryan Wen Liu, [Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weathers](https://www.sciencedirect.com/science/article/pii/S0964569123000030), **OCMA**
