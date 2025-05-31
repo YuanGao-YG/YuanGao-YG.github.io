@@ -164,15 +164,15 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 
 # 🎖 Honors and Awards
 
-* 2023.09<b>National Scholarship</b><b></b>.
-* 2023.08<b>National First Prize</b> of China Ocean Vehicle Design and Production Competition (Entrepreneurship Track)<b></b>.  
-* 2023.05<b>Hubei Provincial Top Grade Prize</b> of China "Challenge Cup" College Students Extracurricular Academic and Scientific Works Competition<b></b>.
-* 2023.05<b>National First Prize</b> of China Transportation Technology Competition<b></b>.  
-* 2022.09<b>Top Grade Scholarship</b><b> (the highest scholarship for undergraduate students)</b>.
-* 2022.08<b>National First Prize</b> of China Ocean Vehicle Design and Production Competition (Object Detection Track)<b></b>.
-* 2022.08<b>National First Prize</b> of China Ocean Vehicle Design and Production Competition (Intelligent Unmanned Ship Track)<b></b>.
-* 2022.08<b>National Top Grade Prize</b> of China Ocean Vehicle Design and Production Competition (Innovation Track)<b></b>.
-* 2021.09<b>National Scholarship</b><b></b>.
+* 2023.09 <b>National Scholarship</b><b></b>.
+* 2023.08 <b>National First Prize</b> of China Ocean Vehicle Design and Production Competition (Entrepreneurship Track)<b></b>.  
+* 2023.05 <b>Hubei Provincial Top Grade Prize</b> of China "Challenge Cup" College Students Extracurricular Academic and Scientific Works Competition<b></b>.
+* 2023.05 <b>National First Prize</b> of China Transportation Technology Competition<b></b>.  
+* 2022.09 <b>Top Grade Scholarship</b><b> (the highest scholarship for undergraduate students)</b>.
+* 2022.08 <b>National First Prize</b> of China Ocean Vehicle Design and Production Competition (Object Detection Track)<b></b>.
+* 2022.08 <b>National First Prize</b> of China Ocean Vehicle Design and Production Competition (Intelligent Unmanned Ship Track)<b></b>.
+* 2022.08 <b>National Top Grade Prize</b> of China Ocean Vehicle Design and Production Competition (Innovation Track)<b></b>.
+* 2021.09 <b>National Scholarship</b><b></b>.
 
 # 📖 Educations
 
