@@ -115,7 +115,7 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun W
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='papers/TIM_TOENet/fig_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM 2023</div><img src='papers/TIM_TOENet/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Let You See in Haze and Sandstorm: Two-in-One Low-visibility Enhancement Network](https://ieeexplore.ieee.org/abstract/document/10216344)
@@ -127,7 +127,7 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun W
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OCMA</div><img src='papers/OCMA_LPSNet/fig_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OCMA 2023</div><img src='papers/OCMA_LPSNet/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weather](https://www.sciencedirect.com/science/article/pii/S0964569123000030)
