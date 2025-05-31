@@ -105,7 +105,7 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun W
 
 [OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621)
 
-<strong>Yu Guo</strong><sup>†</sup>, Yuan Gao<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen Liu<sup>*</sup>, Shengfeng He<sup>*</sup>
+Yu Guo<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen Liu<sup>*</sup>, Shengfeng He<sup>*</sup>
 
 [**Project**](https://gy65896.github.io/projects/ECCV2024_OneRestore/index.html)
 
