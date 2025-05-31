@@ -149,7 +149,7 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun W
 # 🎖 Honors and Awards
 
 * <b>National Scholarship</b><b></b>, 2023.
-* <b>Top Grade Scholarship</b><b>(the highest scholarship for undergraduate students)</b>, 2022.
+* <b>Top Grade Scholarship</b><b> (the highest scholarship for undergraduate students)</b>, 2022.
 * <b>National Scholarship</b><b></b>, 2021.
 
 # 📖 Educations
