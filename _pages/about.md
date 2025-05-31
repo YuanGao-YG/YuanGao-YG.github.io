@@ -172,5 +172,5 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 
 * **🎓 B.Sc. in School of Navigation, 2020 - 2024**
 
-<span style="color:darkgray; padding-left: 4em;">Wuhan University of Technology, Wuhan, China
+<span style="color:darkgray; padding-left: 4em;">Wuhan University of Technology, Wuhan, China</span>
 
