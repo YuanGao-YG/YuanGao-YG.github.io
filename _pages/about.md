@@ -180,7 +180,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 
 <span style="color:darkgray; padding-left: 4em;">Tsinghua University, Beijing, China</span>
 
-* **🎓 B.Sc. in School of Navigation, 2020 - 2024**
+* **🎓 B.Sc. in School of Navigation, 2020 - 2024, GPA Rank 1/200+**
 
 <span style="color:darkgray; padding-left: 4em;">Wuhan University of Technology, Wuhan, China</span>
 
