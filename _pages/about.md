@@ -160,7 +160,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 - Jingxiang Qu, Ryan Wen Liu<sup>*</sup>, **Yuan Gao**, Yu Guo, Fenghua Zhu, Fei-Yue Wang, [Double Domain Guided Real-time Low-light Image Enhancement for Ultra-high-definition Transportation Surveillance](https://ieeexplore.ieee.org/abstract/document/10423894/), **IEEE TITS 2023**
 - **Yuan Gao**<sup>†</sup>, Wenyu Xu<sup>†</sup>, Yuxu Lu<sup>*</sup>, [Let You See in Haze and Sandstorm: Two-in-One Low-Visibility Enhancement Network](https://ieeexplore.ieee.org/abstract/document/10216344), **IEEE TIM 2023**
 - Yu Guo, **Yuan Gao**, Wen Liu, Yuxu Lu, Jingxiang Qu, Shengfeng He, Wenqi Ren, [SCANet: Self-paced Semi-curricular Attention Network for Non-homogeneous Image Dehazing](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Guo_SCANet_Self-Paced_Semi-Curricular_Attention_Network_for_Non-Homogeneous_Image_Dehazing_CVPRW_2023_paper.html), **CVPRW 2023**
-- Jingxiang Qu, **Yuan Gao**, Yuxu Lu, Wenyu Xu, Ryan Wen Liu, [Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weathers](https://www.sciencedirect.com/science/article/pii/S0964569123000030), **OCMA 2023**
+- Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu, Wenyu Xu, Ryan Wen Liu, [Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weathers](https://www.sciencedirect.com/science/article/pii/S0964569123000030), **OCMA 2023**
 
 # 🎖 Honors and Awards
 
