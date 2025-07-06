@@ -56,6 +56,8 @@ Ruiqi Shu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiji
 **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Hao Wu<sup>†</sup>, Fan Xu, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Xiaomeng Huang<sup>*</sup>
 
 <a href="https://arxiv.org/abs/2505.21020" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/NeuralOM" target="_blank">Code</a>
+<img src="https://img.shields.io/github/stars/YuanGao-YG/NeuralOM?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/NeuralOM?label=%F0%9F%94%A7%20Fork&color=green">
+
 
 </div>
 </div>
@@ -69,6 +71,7 @@ Ruiqi Shu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiji
 Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Zean Han, Fan Xu, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>
 
 <a href="https://arxiv.org/abs/2505.19038" target="_blank">Paper</a> | <a href="https://github.com/easylearningscores/TurbL1_AI4Science" target="_blank">Code</a>
+<img src="https://img.shields.io/github/stars/easylearningscores/TurbL1_AI4Science?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/easylearningscores/TurbL1_AI4Science?label=%F0%9F%94%A7%20Fork&color=green">
 
 </div>
 </div>
@@ -82,6 +85,7 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Zean 
 Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, Fan Xu, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>
 
 <a href="https://arxiv.org/abs/2505.19432" target="_blank">Paper</a> | <a href="https://github.com/easylearningscores/Triton_AI4Earth" target="_blank">Code</a>
+<img src="https://img.shields.io/github/stars/easylearningscores/Triton_AI4Earth?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/easylearningscores/Triton_AI4Earth?label=%F0%9F%94%A7%20Fork&color=green">
 
 </div>
 </div>
@@ -124,6 +128,7 @@ Yu Guo<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen 
 **Yuan Gao**<sup>†</sup>, Wenyu Xu<sup>†</sup>, Yuxu Lu<sup>*</sup>
 
 <a href="https://ieeexplore.ieee.org/abstract/document/10216344" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/TOENet" target="_blank">Code</a>
+<img src="https://img.shields.io/github/stars/YuanGao-YG/TOENet?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/TOENet?label=%F0%9F%94%A7%20Fork&color=green">
 
 </div>
 </div>
@@ -136,6 +141,7 @@ Yu Guo<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen 
 Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wenyu Xu, Ryan Wen Liu<sup>*</sup>
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0964569123000030" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/LPSNet" target="_blank">Code</a>
+<img src="https://img.shields.io/github/stars/YuanGao-YG/LPSNet?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/LPSNet?label=%F0%9F%94%A7%20Fork&color=green">
 
 </div>
 </div>
