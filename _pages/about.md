@@ -95,6 +95,7 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun W
 **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
 
 <a href="https://openreview.net/forum?id=9xGSeVolcN" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/OneForecast" target="_blank">Code</a>
+<img src="https://img.shields.io/github/stars/YuanGao-YG/OneForecast?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/OneForecast?label=%F0%9F%94%A7%20Fork&color=green">
 
 </div>
 </div>
