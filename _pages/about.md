@@ -58,8 +58,8 @@ Yuan Gao is currently pursuing Ph.D. degree in School of Science, Tsinghua Unive
 
 Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Zean Han, Fan Xu, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>
 
-<a href="https://arxiv.org/abs/2505.19038" target="_blank">Paper</a> | <a href="https://github.com/easylearningscores/TurbL1_AI4Science" target="_blank">Code</a>
-<img src="https://img.shields.io/github/stars/easylearningscores//Trub_L1?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/easylearningscores//Trub_L1?label=%F0%9F%94%A7%20Fork&color=green">
+<a href="https://arxiv.org/abs/2505.19038" target="_blank">Paper</a> | <a href="https://github.com/easylearningscores/Trub_L1" target="_blank">Code</a>
+<img src="https://img.shields.io/github/stars/easylearningscores/Trub_L1?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/easylearningscores/Trub_L1?label=%F0%9F%94%A7%20Fork&color=green">
 
 </div>
 </div>
