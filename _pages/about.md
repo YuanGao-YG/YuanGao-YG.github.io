@@ -91,8 +91,8 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Zean 
 
 Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, Fan Xu, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>
 
-<a href="https://arxiv.org/abs/2505.19432" target="_blank">Paper</a> | <a href="https://github.com/easylearningscores/Triton_AI4Earth" target="_blank">Code</a>
-<img src="https://img.shields.io/github/stars/easylearningscores/Triton_AI4Earth?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/easylearningscores/Triton_AI4Earth?label=%F0%9F%94%A7%20Fork&color=green">
+<a href="https://arxiv.org/abs/2505.19432" target="_blank">Paper</a> | <a href="https://github.com/Alexander-wu/Triton_AI4Earth" target="_blank">Code</a>
+<img src="https://img.shields.io/github/stars/Alexander-wu/Triton_AI4Earth?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/Alexander-wu/Triton_AI4Earth?label=%F0%9F%94%A7%20Fork&color=green">
 
 </div>
 </div>
