@@ -48,7 +48,7 @@ Yuan Gao is currently a second-year Ph.D. student in School of Science, Tsinghua
 
 **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Qingsong Wen, Kun Wang, Xian Wu, Xiaomeng Huang
 
-<a href="https://arxiv.org/abs/2505.21020" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/VISION" target="_blank">Code</a>
+<a href="https://arxiv.org/abs/2509.21477" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/VISION" target="_blank">Code</a>
 <img src="https://img.shields.io/github/stars/YuanGao-YG/VISION?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/VISION?label=%F0%9F%94%A7%20Fork&color=green">
 
 
