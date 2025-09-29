@@ -44,7 +44,7 @@ Yuan Gao is currently a second-year Ph.D. student in School of Science, Tsinghua
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='papers/arXiv_VISION/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VISION: Prompting Ocean Vertical Velocity Reconstruction from Incomplete Observations](https://arxiv.org/abs/2505.21020)
+[VISION: Prompting Ocean Vertical Velocity Reconstruction from Incomplete Observations](https://arxiv.org/abs/2509.21477)
 
 **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Qingsong Wen, Kun Wang, Xian Wu, Xiaomeng Huang
 
@@ -155,7 +155,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">AI for Science</p>
 
-- **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Qingsong Wen, Kun Wang, Xian Wu, Xiaomeng Huang<sup>*</sup>, [VISION: Prompting Ocean Vertical Velocity Reconstruction from Incomplete Observations](https://arxiv.org/abs/2505.21020), **arXiv 2025**
+- **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Qingsong Wen, Kun Wang, Xian Wu, Xiaomeng Huang<sup>*</sup>, [VISION: Prompting Ocean Vertical Velocity Reconstruction from Incomplete Observations](https://arxiv.org/abs/2509.21477), **arXiv 2025**
 - **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Hao Wu<sup>†</sup>, Fan Xu, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Kun Wang, Xiaomeng Huang<sup>*</sup>, [NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020), **arXiv 2025**
 - Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Zean Han, Fan Xu, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>, [Turb-L1: Achieving Long-term Turbulence Tracing By Tackling Spectral Bias](https://arxiv.org/abs/2505.19038), **arXiv 2025**
 - Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, Fan Xu, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>, [Advanced long-term earth system forecasting by learning the small-scale nature](https://arxiv.org/abs/2505.19432), **arXiv 2025**
