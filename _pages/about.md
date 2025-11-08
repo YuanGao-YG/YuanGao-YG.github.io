@@ -22,6 +22,7 @@ Yuan Gao is currently a Ph.D. student in School of Science, Tsinghua University,
 
 # 🔥 News
 
+- **2025.11**: &nbsp;🎉 One paper was accepted by **<a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>** (First Author).
 - **2025.05**: &nbsp;🎉 One paper was accepted by **<a href="https://icml.cc/">ICML 2025</a>** (First Author).
 - **2024.09**: &nbsp;🎉 One paper was accepted by **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979/">IEEE TITS</a>**.
 - **2024.07**: &nbsp;🎉 One paper was accepted by **<a href="https://eccv.ecva.net/">ECCV 2024</a>** (Co-first Author).
@@ -60,7 +61,7 @@ Yuan Gao is currently a Ph.D. student in School of Science, Tsinghua University,
 
 [NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020)
 
-**Yuan Gao**<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Hao Wu<sup>†</sup>, Fan Xu, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Kun Wang, Xiaomeng Huang<sup>*</sup>
+**Yuan Gao**<sup>†</sup>, Ruiqi Shu, Hao Wu<sup>†</sup>, Fan Xu, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>
 
 <a href="https://arxiv.org/abs/2505.21020" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/NeuralOM" target="_blank">Code</a>
 <img src="https://img.shields.io/github/stars/YuanGao-YG/NeuralOM?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/NeuralOM?label=%F0%9F%94%A7%20Fork&color=green">
