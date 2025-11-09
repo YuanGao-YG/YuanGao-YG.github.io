@@ -38,7 +38,7 @@ Yuan Gao is currently a Ph.D. student in School of Science, Tsinghua University,
 
 
 
-<p style="text-align: left; font-weight: bold; font-size: 1.2em; margin-bottom: -0.5em;">Representative Works († means equal contribution, * means corrspongding author)</p>
+<p style="text-align: left; font-weight: bold; font-size: 1.2em; margin-bottom: -0.5em;">Representative Works († Equal contribution, ‡ Project lead and technical guidance, * Corresponding author)</p>
 
 
 
