@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <div style="text-align: justify;">
-Yuan Gao is currently a Ph.D. student in Tsinghua University. He received B.E. degree from Wuhan University of Technology, in 2024.   <br><br>   His research interests include Scientific Machine Learning and Computer Vision.    He has published over 10 papers at the top international conferences and journals  <span style="display: inline-block; vertical-align: middle; margin: 0 0.3em;"><a href=" " style="text-decoration: none; display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YuanGao-YG/google-scholar-stats/main/badge-citations.json&logo=google-scholar&logoColor=4285F4&style=flat-square" alt="Google Scholar Citations" style="vertical-align: middle;"></a></span>  such as ICML, AAAI, ECCV, IEEE TITS, IEEE TIM, KBS, OCMA. He has also served as a reviewer of multiple conferences and journals,    including ICLR, NeurIPS, CVPR, AAAI, IEEE TITS, Artificial Intelligence Review, Neural Networks.   <br><br><strong>I am actively seeking like-minded collaborators.</strong>    If you are interested in my work, please feel free to contact me via email:    yuangao24@mails.tsinghua.edu.cn.
+Yuan Gao is currently a Ph.D. student in Tsinghua University. <br><br>   His research interests include Scientific Machine Learning and Computer Vision.    He has published over 10 papers at the top international conferences and journals  <span style="display: inline-block; vertical-align: middle; margin: 0 0.3em;"><a href=" " style="text-decoration: none; display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YuanGao-YG/google-scholar-stats/main/badge-citations.json&logo=google-scholar&logoColor=4285F4&style=flat-square" alt="Google Scholar Citations" style="vertical-align: middle;"></a></span>  such as ICML, AAAI, ECCV, IEEE TITS, IEEE TIM, KBS, OCMA. He has also served as a reviewer of multiple conferences and journals,    including ICLR, NeurIPS, CVPR, AAAI, IEEE TITS, Artificial Intelligence Review, Neural Networks.   <br><br><strong>I am actively seeking like-minded collaborators.</strong>    If you are interested in my work, please feel free to contact me via email:    yuangao24@mails.tsinghua.edu.cn.
 </div>
 
 # 🔥 News
@@ -182,7 +182,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 * 2023.08 <b>National First Prize</b> of China Ocean Vehicle Design and Production Competition (Entrepreneurship Track)<b></b>.  
 * 2023.05 <b>Hubei Provincial Top Grade Prize</b> of China "Challenge Cup" College Students Extracurricular Academic and Scientific Works Competition<b></b>.
 * 2023.05 <b>National First Prize</b> of China Transportation Technology Competition<b></b>.  
-* 2022.09 <b>Top Grade Scholarship</b><b> (the highest scholarship for undergraduate students)</b>.
+* 2022.09 <b>Top Grade Scholarship</b>.
 * 2022.08 <b>National First Prize</b> of China Ocean Vehicle Design and Production Competition (Object Detection Track)<b></b>.
 * 2022.08 <b>National First Prize</b> of China Ocean Vehicle Design and Production Competition (Intelligent Unmanned Ship Track)<b></b>.
 * 2022.08 <b>National Top Grade Prize</b> of China Ocean Vehicle Design and Production Competition (Innovation Track)<b></b>.
@@ -191,6 +191,3 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 # 📖 Educations
 
 * **🎓 Ph.D. in Tsinghua University, Beijing, China, 2024 - Now**
-
-* **🎓 B.E. in Wuhan University of Technology, Wuhan, China, 2020 - 2024 (GPA Rank 1/200+)**
-
