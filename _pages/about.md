@@ -187,7 +187,3 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 * 2022.08 <b>National First Prize</b> of China Ocean Vehicle Design and Production Competition (Intelligent Unmanned Ship Track)<b></b>.
 * 2022.08 <b>National Top Grade Prize</b> of China Ocean Vehicle Design and Production Competition (Innovation Track)<b></b>.
 * 2021.09 <b>National Scholarship</b><b></b>.
-
-# 📖 Educations
-
-* **🎓 Ph.D. in Tsinghua University, Beijing, China, 2024 - Now**
