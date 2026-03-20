@@ -154,7 +154,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 </div>
 </div>
 
-<p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">AI for Science</p>
+<p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">Scientific Machine Learning</p>
 
 - **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Qingsong Wen, Kun Wang, Xian Wu, Xiaomeng Huang<sup>*</sup>, [VISION: Prompting Ocean Vertical Velocity Reconstruction from Incomplete Observations](https://arxiv.org/abs/2509.21477), **arXiv 2025**
 - **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup> <sup>‡ </sup>, Fan Xu, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu<sup>*</sup>, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>, [NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020), **AAAI 2026**
