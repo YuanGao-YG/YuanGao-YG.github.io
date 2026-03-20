@@ -104,7 +104,7 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruijian Gou<sup>†</sup>, Xia
 
 [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://openreview.net/forum?id=9xGSeVolcN)
 
-**Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup> <sup>‡ </sup>, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
+**Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
 
 <a href="https://openreview.net/forum?id=9xGSeVolcN" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/OneForecast" target="_blank">Code</a>
 <img src="https://img.shields.io/github/stars/YuanGao-YG/OneForecast?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/OneForecast?label=%F0%9F%94%A7%20Fork&color=green">
@@ -161,7 +161,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 - Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Zean Han, Fan Xu, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>, [Turb-L1: Achieving Long-term Turbulence Tracing By Tackling Spectral Bias](https://arxiv.org/abs/2505.19038), **arXiv 2025**
 - Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruijian Gou<sup>†</sup>, Xian Wu<sup>†</sup>, Chuhan Wu<sup>†</sup>, Huahui Yi<sup>†</sup>, Johannes Brandstetter, Fan Xu, Kun Wang, Penghao Zhao, Hao Jia, Qi Song, Xinliang Liu, Juncai He, Shuhao Cao, Huanshuo Dong, Yanfei Xiang, Fan Zhang, Haixin Wang, Xingjian Shi, Qiufeng Wang, Shuaipeng Li, Ruobing Xie, Feng Tao, Yuxu Lu, Yu Guo, Yuntian Chen, Yuxuan Liang, Qingsong Wen, Wanli Ouyang, Deliang Chen, Niklas Boers, Xiaomeng Huang<sup>*</sup>, [Advanced long-term earth system forecasting by learning the small-scale nature](https://arxiv.org/abs/2505.19432), **arXiv 2025**
 - Weiyan Wang, Xingjian Shi, **Yuan Gao**, Rui Ray Chen, Kun Wang, Fan Xu, Jinbao Xue, Shuaipeng Li, Yangyu Tao, Di Wang, Hao Wu, Xiaomeng Huang<sup>*</sup>, [BeamVQ: Beam Search with Vector Quantization to Mitigate Data Scarcity in Physical Spatiotemporal Forecasting](https://arxiv.org/abs/2502.18925), **arXiv 2025**
-- **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup> <sup>‡ </sup>, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>, [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://openreview.net/forum?id=9xGSeVolcN), **ICML 2025, CCF-A**
+- **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>, [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://openreview.net/forum?id=9xGSeVolcN), **ICML 2025, CCF-A**
 
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">Computer Vision</p>
 
