@@ -88,12 +88,12 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Zean Han, Fan Xu, Zhihong Zhu,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='papers/arXiv_Triton/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Advanced long-term earth system forecasting by learning the small-scale nature](https://arxiv.org/abs/2505.19432)
+[Advanced long-term earth system forecasting](https://arxiv.org/abs/2505.19432)
 
 Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, Fan Xu, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>
 
-<a href="https://arxiv.org/abs/2505.19432" target="_blank">Paper</a> | <a href="https://github.com/Alexander-wu/Triton_AI4Earth" target="_blank">Code</a>
-<img src="https://img.shields.io/github/stars/Alexander-wu/Triton_AI4Earth?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/Alexander-wu/Triton_AI4Earth?label=%F0%9F%94%A7%20Fork&color=green">
+<a href="https://arxiv.org/abs/2505.19432" target="_blank">Paper</a> | <a href="https://github.com/Alexander-wu/TritonCast" target="_blank">Code</a>
+<img src="https://img.shields.io/github/stars/Alexander-wu/TritonCast?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/Alexander-wu/TritonCast?label=%F0%9F%94%A7%20Fork&color=green">
 
 </div>
 </div>
