@@ -90,7 +90,7 @@ Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Zean Han, Fan Xu, Zhihong Zhu,
 
 [Advanced long-term earth system forecasting](https://arxiv.org/abs/2505.19432)
 
-Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruijian Gou<sup>†</sup>, Xian Wu<sup>†</sup>, Chuhan Wu<sup>†</sup>, Huahui Yi<sup>†</sup>, Johannes Brandstetter, Fan Xu, Kun Wang, Penghao Zhao, Hao Jia, Qi Song, Xinliang Liu, Juncai He, Shuhao Cao, Huanshuo Dong, Yanfei Xiang, Fan Zhang, Haixin Wang, Xingjian Shi, Qiufeng Wang, Shuaipeng Li, Ruobing Xie, Feng Tao, Yuxu Lu, Yu Guo, Yuntian Chen, Yuxuan Liang, Qingsong Wen, Wanli Ouyang, Deliang Chen, Niklas Boers, Xiaomeng Huang<sup>*</sup>
+Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Ruijian Gou<sup>†</sup>, Xian Wu<sup>†</sup>, Chuhan Wu<sup>†</sup>, Huahui Yi<sup>†</sup>, Johannes Brandstetter, Fan Xu, Kun Wang, Penghao Zhao, Hao Jia, Qi Song, Xinliang Liu, Juncai He, Shuhao Cao, Huanshuo Dong, Yanfei Xiang, Fan Zhang, Haixin Wang, Xingjian Shi, Qiufeng Wang, Shuaipeng Li, Ruobing Xie, Feng Tao, Yuxu Lu, Yu Guo, Yuntian Chen, Yuxuan Liang, Qingsong Wen, Wanli Ouyang, Deliang Chen, Niklas Boers, Xiaomeng Huang<sup>*</sup>
 
 <a href="https://arxiv.org/abs/2505.19432" target="_blank">Paper</a> | <a href="https://github.com/Alexander-wu/TritonCast" target="_blank">Code</a>
 <img src="https://img.shields.io/github/stars/Alexander-wu/TritonCast?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/Alexander-wu/TritonCast?label=%F0%9F%94%A7%20Fork&color=green">
