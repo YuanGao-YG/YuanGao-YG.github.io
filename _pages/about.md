@@ -158,6 +158,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">Scientific Machine Learning</p>
 
+- Huanshuo Dong, Hong Wang, Hao Wu, Zhiwei Zhuang, Xuanze Yang, Ruiqi Shu, **Yuan Gao**, Xiaomeng Huang, [An Exterior-Embedding Neural Operator Framework for Preserving Conservation Laws](https://arxiv.org/abs/2511.16573), **KDD 2026**
 - **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Qingsong Wen, Kun Wang, Xian Wu, Xiaomeng Huang<sup>*</sup>, [VISION: Prompting Ocean Vertical Velocity Reconstruction from Incomplete Observations](https://arxiv.org/abs/2509.21477), **arXiv 2025**
 - **Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup> <sup>‡ </sup>, Fan Xu, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu<sup>*</sup>, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>, [NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020), **AAAI 2026, CCF-A**
 - Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Zean Han, Fan Xu, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>, [Turb-L1: Achieving Long-term Turbulence Tracing By Tackling Spectral Bias](https://arxiv.org/abs/2505.19038), **arXiv 2025**
