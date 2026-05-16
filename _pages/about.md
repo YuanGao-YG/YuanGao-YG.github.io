@@ -157,7 +157,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 </div>
 
 
-<p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">LLMs and World Models</p>
+<p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">LLMs, World Models</p>
 
 - Hao Wu<sup>†</sup>, Yuqi Li<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, Weiyan Wang, Yingli Tian, Xian Wu, Xiaomeng Huang<sup>*</sup>, [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821), **arXiv 2026**
 - Hao Wu<sup>†</sup>, Yongheng Zhang<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu, Fan Zhang, Ruobing Xie, Ruijian Gou, Yuxuan Liang, Xiaomeng Huang, Xian Wu<sup>*</sup>, [OMNIFLOW: A Physics-Grounded Multimodal Agent for Generalized Scientific Reasoning](https://arxiv.org/abs/2603.15797), **arXiv 2026**
