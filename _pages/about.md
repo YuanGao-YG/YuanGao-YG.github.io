@@ -162,7 +162,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 - Hao Wu<sup>†</sup>, Yuqi Li<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, Weiyan Wang, Yingli Tian, Xian Wu, Xiaomeng Huang<sup>*</sup>, [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821), **arXiv 2026**
 - Hao Wu<sup>†</sup>, Yongheng Zhang<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu, Fan Zhang, Ruobing Xie, Ruijian Gou, Yuxuan Liang, Xiaomeng Huang, Xian Wu<sup>*</sup>, [OMNIFLOW: A Physics-Grounded Multimodal Agent for Generalized Scientific Reasoning](https://arxiv.org/abs/2603.15797), **arXiv 2026**
 - Fan Zhang, Haoxuan Li, Shengju Qian<sup>*</sup>, Xin Wang, Zheng Lian, Hao Wu, Zhihong Zhu, **Yuan Gao**, Qiankun Li, Yefeng Zheng, Zhouchen Lin<sup>*</sup>, Pheng-Ann Heng, [Rethinking facial expression recognition in the era of multimodal large language models: Benchmark, datasets, and beyond](https://arxiv.org/abs/2511.00389), **arXiv 2025**
-- Yu Guo<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen Liu<sup>*</sup>, Shengfeng He<sup>*</sup>, [OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621), **ECCV 2024, CCF-B** 
+- Yu Guo<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen Liu<sup>&ast;</sup>, Shengfeng He<sup>&ast;</sup>, [OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621), **ECCV 2024, CCF-B** 
 
 
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">Scientific Machine Learning</p>
