@@ -22,6 +22,7 @@ Yuan Gao is currently a Ph.D. student in Tsinghua University. His research inter
 
 # 🔥 News
 
+- **2026.05**: &nbsp;🎉 Two papers were accepted by **<a href="https://kdd2026.kdd.org/">KDD 2026</a>** (Co-first Author × 1).
 - **2026.05**: &nbsp;🎉 One paper was accepted by **<a href="https://icml.cc/">ICML 2026</a>** (Corresponding Author).
 - **2025.11**: &nbsp;🎉 One paper was accepted by **<a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>** (First Author).
 - **2025.05**: &nbsp;🎉 One paper was accepted by **<a href="https://icml.cc/">ICML 2025</a>** (First Author).
