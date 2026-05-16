@@ -156,6 +156,14 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 </div>
 </div>
 
+
+<p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">LLMs and World Models</p>
+
+
+- Fan Zhang, Haoxuan Li, Shengju Qian<sup>*</sup>, Xin Wang, Zheng Lian, Hao Wu, Zhihong Zhu, **Yuan Gao**, Qiankun Li, Yefeng Zheng, Zhouchen Lin<sup>*</sup>, Pheng-Ann Heng, [Rethinking facial expression recognition in the era of multimodal large language models: Benchmark, datasets, and beyond](https://arxiv.org/abs/2511.00389), **arXiv 2025** 
+- Yu Guo<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen Liu<sup>*</sup>, Shengfeng He<sup>*</sup>, [OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621), **ECCV 2024, CCF-B** 
+
+
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">Scientific Machine Learning</p>
 
 - Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu<sup>†</sup>, Fan Zhang, Qingsong Wen, Kun Wang, Xiaomeng Huang, Xian Wu, [Differential-Integral Neural Operator for Long-Term Turbulence Forecasting](https://arxiv.org/abs/2509.21196), **KDD 2026**
@@ -172,7 +180,6 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 
 - Yuxuan Tian, Yu Guo<sup>*</sup>, Yuxu Lu, **Yuan Gao**, Ryan Wen Liu, [Towards a physical imaging-driven sparse attention dehazer for Internet of Things-aided Maritime Intelligent Transportation](https://www.sciencedirect.com/science/article/pii/S0045790625002009), **CEE 2025, JCR Q1** 
 - Lu Li<sup>†</sup>, Wenyu Xu<sup>†</sup>, **Yuan Gao**, Yuxu Lu<sup>*</sup>, Dong Yang, Ryan Wen Liu, Ran Zhang, [Attention-oriented residual block for real-time low-light image enhancement in smart ports](https://www.sciencedirect.com/science/article/pii/S0045790624005615), **CEE 2024, JCR Q1** 
-- Yu Guo<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen Liu<sup>*</sup>, Shengfeng He<sup>*</sup>, [OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621), **ECCV 2024, CCF-B** 
 - Ryan Wen Liu, Yuxu Lu<sup>*</sup>, **Yuan Gao**, Yu Guo, Wenqi Ren, Fenghua Zhu<sup>*</sup>, Fei-Yue Wang, [Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions](https://ieeexplore.ieee.org/abstract/document/10682473/), **IEEE TITS 2024, JCR Q1, CCF-B**
 - Wenyu Xu, Dong Yang<sup>*</sup>, **Yuan Gao**, Yuxu Lu<sup>*</sup>, Jingming Zhang, Yu Guo, [MvKSR: Multi-view Knowledge-guided Scene Recovery for Hazy and Rainy Degradation](https://ieeexplore.ieee.org/abstract/document/10598186/), **IEEE TIM 2024, JCR Q1**
 - Yuxu Lu, Dong Yang<sup>*</sup>, **Yuan Gao**, Ryan Wen Liu, Jun Liu, Yu Guo, [AoSRNet: All-in-One Scene Recovery Networks via Multi-knowledge Integration](https://www.sciencedirect.com/science/article/pii/S0950705124004209), **KBS 2024, JCR Q1**
