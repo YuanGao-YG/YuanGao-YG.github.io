@@ -43,21 +43,6 @@ Yuan Gao is currently a Ph.D. student in Tsinghua University. His research inter
 <p style="text-align: left; font-weight: bold; font-size: 1.2em; margin-bottom: -0.5em;">Representative Works († Equal contribution, ‡ Project lead and technical guidance, * Corresponding author)</p>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='papers/arXiv_VISION/fig_main.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[VISION: Prompting Ocean Vertical Velocity Reconstruction from Incomplete Observations](https://arxiv.org/abs/2509.21477)
-
-**Yuan Gao**<sup>†</sup>, Hao Wu<sup>†</sup>, Qingsong Wen, Kun Wang, Xian Wu, Xiaomeng Huang
-
-<a href="https://arxiv.org/abs/2509.21477" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/VISION" target="_blank">Code</a>
-<img src="https://img.shields.io/github/stars/YuanGao-YG/VISION?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/VISION?label=%F0%9F%94%A7%20Fork&color=green">
-
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='papers/arXiv_NeuralOM/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
