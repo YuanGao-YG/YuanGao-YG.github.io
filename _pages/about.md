@@ -26,14 +26,7 @@ Yuan Gao is currently a Ph.D. student in Tsinghua University. His research inter
 - **2026.05**: &nbsp;🎉 One paper was accepted by **<a href="https://icml.cc/">ICML 2026</a>** (Corresponding Author).
 - **2025.11**: &nbsp;🎉 One paper was accepted by **<a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>** (First Author).
 - **2025.05**: &nbsp;🎉 One paper was accepted by **<a href="https://icml.cc/">ICML 2025</a>** (First Author).
-- **2024.09**: &nbsp;🎉 One paper was accepted by **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979/">IEEE TITS</a>**.
 - **2024.07**: &nbsp;🎉 One paper was accepted by **<a href="https://eccv.ecva.net/">ECCV 2024</a>** (Co-first Author).
-- **2024.06**: &nbsp;🎉 One paper was accepted by **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19/">IEEE TIM</a>** (First Author).
-- **2024.04**: &nbsp;🎉 One paper was accepted by **<a href="https://www.sciencedirect.com/journal/knowledge-based-systems/">KBS</a>**.
-- **2023.08**: &nbsp;🎉 One paper was accepted by **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979/">IEEE TITS</a>**.
-- **2023.07**: &nbsp;🎉 One paper was accepted by **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19/">IEEE TIM</a>** (First Author).
-- **2023.01**: &nbsp;🎉 One paper was accepted by **<a href="https://www.sciencedirect.com/journal/ocean-and-coastal-management/">OCMA</a>** (Co-first Author).
-
 
 # 📝 Publications
 
@@ -128,7 +121,7 @@ Yu Guo<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OCMA 2023</div><img src='papers/OCMA_LPSNet/fig_main.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OCMA 2023</div><img src='papers/OCMA_LPSNet/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weather](https://www.sciencedirect.com/science/article/pii/S0964569123000030)
@@ -139,7 +132,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 <img src="https://img.shields.io/github/stars/YuanGao-YG/LPSNet?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/LPSNet?label=%F0%9F%94%A7%20Fork&color=green">
 
 </div>
-</div>
+</div> -->
 
 
 <p style="text-align: center; font-weight: bold; font-size: 1.2em; margin-bottom: 0.5em;">LLMs, World Models</p>
