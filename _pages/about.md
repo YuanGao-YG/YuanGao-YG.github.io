@@ -36,6 +36,18 @@ Yuan Gao is currently a Ph.D. student in Tsinghua University and the co-founder 
 <p style="text-align: left; font-weight: bold; font-size: 1.2em; margin-bottom: -0.5em;">Representative Works († Equal contribution, ‡ Project lead and technical guidance, * Corresponding author)</p>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='papers/arXiv_RoboAlign-R1/fig_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821)
+
+Hao Wu<sup>†</sup>, Yuqi Li<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, Weiyan Wang, Yingli Tian, Xian Wu, Xiaomeng Huang<sup>*</sup>
+
+<a href="https://arxiv.org/abs/2605.03821" target="_blank">Paper</a> | <a href="https://roboalign-r1.netlify.app/" target="_blank">Code</a>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='papers/arXiv_NeuralOM/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,6 +57,21 @@ Yuan Gao is currently a Ph.D. student in Tsinghua University and the co-founder 
 
 <a href="https://arxiv.org/abs/2505.21020" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/NeuralOM" target="_blank">Code</a>
 <img src="https://img.shields.io/github/stars/YuanGao-YG/NeuralOM?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/NeuralOM?label=%F0%9F%94%A7%20Fork&color=green">
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='papers/ICML2026_PnP/fig_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PnP-Corrector: A Universal Correction Framework for Coupled Spatiotemporal Forecasting](https://arxiv.org/abs/2605.08935)
+
+Hao Wu<sup>†</sup>, Fan Xu<sup>†</sup>, Yuxu Lu, Penghao Zhao, Fan Zhang, Hao Jia, Yuxuan Liang, Ruijian Gou, Qingsong Wen, Xian Wu<sup>*</sup>, Xiaomeng Huang<sup>*</sup>, **Yuan Gao**<sup>*</sup>
+
+<a href="https://arxiv.org/abs/2605.08935" target="_blank">Paper</a> | <a href="https://github.com/Alexander-wu/PnP-Corrector" target="_blank">Code</a>
+<img src="https://img.shields.io/github/stars/Alexander-wu/PnP-Corrector?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://github.com/Alexander-wu/PnP-Corrector?label=%F0%9F%94%A7%20Fork&color=green">
 
 
 </div>
