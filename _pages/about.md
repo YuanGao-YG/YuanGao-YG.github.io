@@ -202,5 +202,5 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 # 🎖 Honors and Awards
 * 2025.10 <b>Comprehensive Scholarship of Tsinghua University</b><b></b>.
 * 2023.09 <b>National Scholarship (Top 1% in China)</b><b></b>.
-* 2022.09 <b>Top Grade Scholarship (the highest scholarship for undergraduate students)</b><b></b>.
+* 2022.09 <b>Top Grade Scholarship</b><b></b>.
 * 2021.09 <b>National Scholarship (Top 1% in China)</b><b></b>.
