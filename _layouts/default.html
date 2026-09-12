@@ -1,5 +1,4 @@
 ---
-layout: compress
 ---
 
 <!doctype html>
@@ -10,7 +9,7 @@ layout: compress
   </head>
 
   <body>
-
+    <a class="skip-link" href="#about-me" target="_self">Skip to content</a>
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -26,6 +25,14 @@ layout: compress
         </div>
       </article>
     </div>
+
+    <footer class="academic-footer">
+      <div class="footer-meta">
+        <span class="footer-updated">Last updated: <time datetime="{{ site.time | date: '%Y-%m' }}">{{ site.time | date: '%B %Y' }}</time></span>
+        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+      </div>
+      <a href="#about-me" target="_self">Back to top <span aria-hidden="true">↑</span></a>
+    </footer>
 
     {% include scripts.html %}
 

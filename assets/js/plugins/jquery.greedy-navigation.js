@@ -13,6 +13,10 @@ var $hlinks = $('#site-nav .hidden-links');
 var breaks = [];
 
 function updateNav() {
+  // The academic layout uses its own navigation, without the legacy menu.
+  if (!$nav.length || !$btn.length || !$vlinks.length || !$hlinks.length) {
+    return;
+  }
 
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
