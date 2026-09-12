@@ -1,0 +1,12 @@
+<header class="masthead">
+  <div class="masthead__inner-wrap">
+    <a class="site-brand" href="/#about-me" target="_self" aria-label="Yuan Gao — About me">
+      <span>{{ site.title }}</span>
+    </a>
+    <nav class="profile-nav" aria-label="Main navigation">
+      {% for link in site.data.navigation.main %}
+        <a href="{{ link.url }}" target="_self">{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
