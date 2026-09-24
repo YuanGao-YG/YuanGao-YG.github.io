@@ -23,6 +23,7 @@ redirect_from:
 
 <h2 class="section-heading" id="-news">Latest News</h2>
 <ul class="news-list">
+  <li><time datetime="2026-09">2026.09</time><span>Two papers were accepted by <strong><a href="https://neurips.cc/">NIPS 2026</a></strong> (Co-first Author × 2).</span></li>
 <li><time datetime="2026-05">2026.05</time><span>Two papers were accepted by <strong><a href="https://kdd2026.kdd.org/">KDD 2026</a></strong> (Co-first Author × 1).</span></li>
 <li><time datetime="2026-05">2026.05</time><span>One paper was accepted by <strong><a href="https://icml.cc/">ICML 2026</a></strong> (Corresponding Author).</span></li>
 <li><time datetime="2025-11">2025.11</time><span>One paper was accepted by <strong><a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a></strong> (First Author).</span></li>
