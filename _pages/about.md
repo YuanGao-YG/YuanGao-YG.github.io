@@ -34,7 +34,7 @@ redirect_from:
 <h2 class="section-heading" id="-publications">Publications</h2>
 <div class="publication-label"><h3>Representative Works</h3><p><span>† Equal contribution</span><span>‡ Project lead and technical guidance</span><span>* Corresponding author</span></p></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='papers/arXiv_RoboAlign-R1/fig_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2026</div><img src='papers/arXiv_RoboAlign-R1/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821)
@@ -163,7 +163,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 <h3 class="publication-category">LLMs, World Models</h3>
 
 - Fan Zhang<sup>†</sup>, Vireo Zhang<sup>†</sup>, Shengju Qian<sup>*</sup>, Haoxuan Li, Zheng Lian, Hao Wu, **Yuan Gao**, Xinyu Geng, Xin Wang, Pheng-Ann Heng, [Struct-Searcher: Agentic Structural Thinking Advances Multimodal Deep Information Seeking](https://arxiv.org/abs/2606.07689), **COLM 2026**
-- Hao Wu<sup>†</sup>, Yuqi Li<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, Weiyan Wang, Yingli Tian, Xian Wu, Xiaomeng Huang<sup>*</sup>, [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821), **arXiv 2026**
+- Hao Wu<sup>†</sup>, Yuqi Li<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, Weiyan Wang, Yingli Tian, Xian Wu, Xiaomeng Huang<sup>*</sup>, [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821), **NIPS 2026**
 - Hao Wu<sup>†</sup>, Yongheng Zhang<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu, Fan Zhang, Ruobing Xie, Ruijian Gou, Yuxuan Liang, Xiaomeng Huang, Xian Wu<sup>*</sup>, [OMNIFLOW: A Physics-Grounded Multimodal Agent for Generalized Scientific Reasoning](https://arxiv.org/abs/2603.15797), **arXiv 2026**
 - Fan Zhang, Haoxuan Li, Shengju Qian<sup>*</sup>, Xin Wang, Zheng Lian, Hao Wu, Zhihong Zhu, **Yuan Gao**, Qiankun Li, Yefeng Zheng, Zhouchen Lin<sup>*</sup>, Pheng-Ann Heng, [Rethinking facial expression recognition in the era of multimodal large language models: Benchmark, datasets, and beyond](https://arxiv.org/abs/2511.00389), **arXiv 2025**
 - Yu Guo<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu, Huilin Zhu, Ryan Wen Liu<sup>*</sup>, Shengfeng He<sup>*</sup>, [OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621), **ECCV 2024, CCF-B** 
@@ -174,7 +174,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 - Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu<sup>†</sup>, Fan Zhang, Qingsong Wen, Kun Wang, Xiaomeng Huang, Xian Wu, [Differential-Integral Neural Operator for Long-Term Turbulence Forecasting](https://arxiv.org/abs/2509.21196), **KDD 2026**
 - Huanshuo Dong<sup>†</sup>, Hong Wang<sup>†</sup>, Hao Wu<sup>†</sup>, Zhiwei Zhuang, Xuanze Yang, Ruiqi Shu, **Yuan Gao**, Xiaomeng Huang<sup>*</sup>, [An Exterior-Embedding Neural Operator Framework for Preserving Conservation Laws](https://arxiv.org/abs/2511.16573), **KDD 2026**
 - Hao Wu<sup>†</sup>, Fan Xu<sup>†</sup>, Yuxu Lu, Penghao Zhao, Fan Zhang, Hao Jia, Yuxuan Liang, Ruijian Gou, Qingsong Wen, Xian Wu<sup>*</sup>, Xiaomeng Huang<sup>*</sup>, **Yuan Gao**<sup>*</sup>, [PnP-Corrector: A Universal Correction Framework for Coupled Spatiotemporal Forecasting](https://arxiv.org/abs/2605.08935), **ICML 2026**
-- Fan Xu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Kun Wang, Rui Su, Fenghua Ling, Hao Wu<sup>*</sup>, Wanli Ouyang<sup>*</sup>, [Tyche: One Step Flow for Efficient Probabilistic Weather Forecasting](https://arxiv.org/abs/2605.06916), **arXiv 2026**
+- Fan Xu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Kun Wang, Rui Su, Fenghua Ling, Hao Wu<sup>*</sup>, Wanli Ouyang<sup>*</sup>, [Tyche: One Step Flow for Efficient Probabilistic Weather Forecasting](https://arxiv.org/abs/2605.06916), **NIPS 2026**
 - Hao Jia, Penghao Zhao, Hao Wu, **Yuan Gao**, Yangyu Tao, Bin Cui, [Learning from history: a retrieval-augmented framework for spatiotemporal prediction](https://arxiv.org/abs/2510.24049), **arXiv 2025**
 - Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu<sup>†</sup>, Fan Zhang, Guangliang Liu, Yuxuan Liang, Xiaomeng Huang, [NeuralOGCM: Differentiable Ocean Modeling with Learnable Physics](https://arxiv.org/abs/2512.11525), **arXiv 2025**
 - Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Xingjian Shi, Shuaipeng Li, Fan Xu, Fan Zhang, Zhihong Zhu, Weiyan Wang, Xiao Luo, Kun Wang, Xian Wu<sup>*</sup>, Xiaomeng Huang<sup>*</sup>, [Spatiotemporal Forecasting as Planning: A Model-Based Reinforcement Learning Approach with Generative World Models](https://arxiv.org/abs/2510.04020), **arXiv 2025**
