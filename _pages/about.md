@@ -176,6 +176,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 
 <h3 class="publication-category">LLMs, World Models</h3>
 
+- **Yuan Gao**<sup>†</sup>, Fan Xu<sup>†</sup>, Yu Guo, Yuxu Lu, Zhengru Fang, Hao Wu<sup>*</sup>, Xiaomeng Huang<sup>*</sup>, [Inertial Video World Models](https://arxiv.org/abs/2611.22314), **arXiv 2026**
 - Fan Zhang<sup>†</sup>, Vireo Zhang<sup>†</sup>, Shengju Qian<sup>*</sup>, Haoxuan Li, Zheng Lian, Hao Wu, **Yuan Gao**, Xinyu Geng, Xin Wang, Pheng-Ann Heng, [Struct-Searcher: Agentic Structural Thinking Advances Multimodal Deep Information Seeking](https://arxiv.org/abs/2606.07689), **COLM 2026**
 - Hao Wu<sup>†</sup>, Yuqi Li<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, Weiyan Wang, Yingli Tian, Xian Wu, Xiaomeng Huang<sup>*</sup>, [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821), **NIPS 2026**
 - Hao Wu<sup>†</sup>, Yongheng Zhang<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu, Fan Zhang, Ruobing Xie, Ruijian Gou, Yuxuan Liang, Xiaomeng Huang, Xian Wu<sup>*</sup>, [OMNIFLOW: A Physics-Grounded Multimodal Agent for Generalized Scientific Reasoning](https://arxiv.org/abs/2603.15797), **arXiv 2026**
@@ -185,6 +186,7 @@ Jingxiang Qu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Yuxu Lu<sup>*</sup>, Wen
 
 <h3 class="publication-category">Scientific Machine Learning</h3>
 
+- Yuan Gao<sup>†</sup>, Fan Xu<sup>†</sup>, Hao Wu<sup>*</sup>, Xiaomeng Huang<sup>*</sup>, [OceanFlow: Coherent Flow Matching for Probabilistic Ocean Modeling](https://arxiv.org/abs/2610.15518), **arXiv 2026**
 - Hao Wu<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu<sup>†</sup>, Fan Zhang, Qingsong Wen, Kun Wang, Xiaomeng Huang, Xian Wu, [Differential-Integral Neural Operator for Long-Term Turbulence Forecasting](https://arxiv.org/abs/2509.21196), **KDD 2026**
 - Huanshuo Dong<sup>†</sup>, Hong Wang<sup>†</sup>, Hao Wu<sup>†</sup>, Zhiwei Zhuang, Xuanze Yang, Ruiqi Shu, **Yuan Gao**, Xiaomeng Huang<sup>*</sup>, [An Exterior-Embedding Neural Operator Framework for Preserving Conservation Laws](https://arxiv.org/abs/2511.16573), **KDD 2026**
 - Hao Wu<sup>†</sup>, Fan Xu<sup>†</sup>, Yuxu Lu, Penghao Zhao, Fan Zhang, Hao Jia, Yuxuan Liang, Ruijian Gou, Qingsong Wen, Xian Wu<sup>*</sup>, Xiaomeng Huang<sup>*</sup>, **Yuan Gao**<sup>*</sup>, [PnP-Corrector: A Universal Correction Framework for Coupled Spatiotemporal Forecasting](https://arxiv.org/abs/2605.08935), **ICML 2026**
