@@ -43,7 +43,7 @@ redirect_from:
 **Yuan Gao**<sup>†</sup>, Fan Xu<sup>†</sup>, Yu Guo, Yuxu Lu, Zhengru Fang, Hao Wu<sup>*</sup>, Xiaomeng Huang<sup>*</sup>
 
 <a href="https://arxiv.org/abs/2611.22314" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/InertialWorld" target="_blank">Code</a>
-<img src="https://img.shields.io/github/stars/YuanGao-YG/InertialWorld?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/Alexander-wu/PnP-Corrector?label=%F0%9F%94%A7%20Fork&color=green">
+<img src="https://img.shields.io/github/stars/YuanGao-YG/InertialWorld?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/InertialWorld?label=%F0%9F%94%A7%20Fork&color=green">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2026</div><img src='papers/arXiv_RoboAlign-R1/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
