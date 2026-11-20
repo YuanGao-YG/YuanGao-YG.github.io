@@ -35,7 +35,7 @@ redirect_from:
 <div class="publication-label"><h3>Representative Works</h3><p><span>† Equal contribution</span><span>‡ Project lead and technical guidance</span><span>* Corresponding author</span></p></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2026</div><img src='papers/arXiv_InertialWorld/fig_main.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2026</div><img src='papers/arXiv_InertialWorld/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821)
