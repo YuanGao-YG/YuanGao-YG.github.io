@@ -35,15 +35,18 @@ redirect_from:
 <div class="publication-label"><h3>Representative Works</h3><p><span>† Equal contribution</span><span>‡ Project lead and technical guidance</span><span>* Corresponding author</span></p></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='papers/arXiv_InertialWorld/fig_main.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2026</div><img src='papers/arXiv_RoboAlign-R1/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Inertial Video World Models](https://arxiv.org/abs/2611.22314)
+[RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821)
 
-**Yuan Gao**<sup>†</sup>, Fan Xu<sup>†</sup>, Yu Guo, Yuxu Lu, Zhengru Fang, Hao Wu<sup>*</sup>, Xiaomeng Huang<sup>*</sup>
+Hao Wu<sup>†</sup>, Yuqi Li<sup>†</sup>, **Yuan Gao**<sup>†</sup>, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, Weiyan Wang, Yingli Tian, Xian Wu, Xiaomeng Huang<sup>*</sup>
 
-<a href="https://arxiv.org/abs/2611.22314" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/InertialWorld" target="_blank">Code</a>
-<img src="https://img.shields.io/github/stars/YuanGao-YG/InertialWorld?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/InertialWorld?label=%F0%9F%94%A7%20Fork&color=green">
+<a href="https://arxiv.org/abs/2605.03821" target="_blank">Paper</a> | <a href="https://roboalign-r1.netlify.app/" target="_blank">Code</a>
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2026</div><img src='papers/arXiv_RoboAlign-R1/fig_main.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
