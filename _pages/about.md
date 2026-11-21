@@ -42,7 +42,7 @@ redirect_from:
 
 **Yuan Gao**<sup>†</sup>, Fan Xu<sup>†</sup>, Yu Guo, Yuxu Lu, Zhengru Fang, Hao Wu<sup>*</sup>, Xiaomeng Huang<sup>*</sup>
 
-<a href="https://arxiv.org/abs/2611.22314" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/NeuralOM" target="_blank">Code</a>
+<a href="https://arxiv.org/abs/2611.22314" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/InertialWorld" target="_blank">Code</a>
 </div>
 </div>
 
