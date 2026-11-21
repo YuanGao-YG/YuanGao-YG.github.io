@@ -74,7 +74,7 @@ a:focus-visible { outline: 3px solid #739af0; outline-offset: 5px; border-radius
 .paper-box-text p:first-child a { color: var(--ink); }
 .paper-box-text p:first-child a:hover { color: var(--accent); }
 .paper-box-text p:nth-child(2) { font-size: 14px; line-height: 1.7; color: var(--muted); }
-.paper-box-text .author-role { display: block; margin-top: 7px; font-size: 14px; line-height: 1.6; color: var(--muted); }
+.paper-box-text .author-role { display: block; margin-top: 7px; font-size: 14px; font-weight: 600; line-height: 1.6; color: var(--ink); }
 .paper-box-text p:not(:first-child):not(:nth-child(2)) { display: flex; align-items: center; flex-wrap: wrap; gap: 6px; margin: 11px 0 0; font-size: 0; }
 .paper-box-text p:not(:first-child):not(:nth-child(2)) a { display: inline-block; padding: 3px 9px; border: 1px solid #dbe3ef; border-radius: 4px; font-size: 14px; font-weight: 500; line-height: 1.65; color: #385681; text-decoration: none; }
 .paper-box-text p:not(:first-child):not(:nth-child(2)) a:hover { color: var(--accent); border-color: #9ab7ed; background: #f2f6ff; }
