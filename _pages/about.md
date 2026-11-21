@@ -18,7 +18,7 @@ redirect_from:
 <header class="profile-intro" id="about-me">
 {% assign name_parts = site.author.name | split: '|' %}
 <h1 class="profile-title">{{ name_parts[0] | strip }}{% if name_parts.size > 1 %}<span lang="zh-CN">{{ name_parts[1] | strip }}</span>{% endif %}</h1>
-<p class="intro-lead">Yuan Gao is currently a Ph.D. student in Tsinghua University. His research focuses on Embodied World Models &amp; Video Generation, Scientific Machine Learning, and Computer Vision, with additional work on Multimodal Large Language Models &amp; Agent Systems. He has published over <strong>20 papers</strong> at the top international conferences and journals such as ICML, NeurIPS, KDD, AAAI, ECCV, COLM, IEEE TMM, IEEE TITS, etc. <a class="citation-badge" href="{{ site.author.googlescholar }}" aria-label="Google Scholar citations"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YuanGao-YG/google-scholar-stats/main/badge-citations.json&logo=google-scholar&logoColor=4285F4&style=flat-square" alt="Google Scholar Citations"></a> He has also served as a reviewer of multiple conferences and journals, including ICLR, NeurIPS, ICML, CVPR, KDD, AAAI, ECCV, IEEE TMM, IEEE TITS, etc. <strong>I am actively seeking like-minded collaborators.</strong> If you are interested in my work, please feel free to contact me via email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.</p>
+<p class="intro-lead">I am Yuan Gao, a Ph.D. student at Tsinghua University. My research focuses on (1) <strong>Embodied World Models &amp; Video Generation</strong>; (2) <strong>Scientific Machine Learning</strong>; and (3) <strong>Computer Vision</strong>. Broadly, my research aims to build intelligent systems that can understand, predict, and reason about the physical world across space, time, and modalities. I have published over <strong>20 papers</strong> at venues including ICML, NeurIPS, KDD, AAAI, ECCV, COLM, IEEE TMM, and IEEE TITS. <a class="citation-badge" href="{{ site.author.googlescholar }}" aria-label="Google Scholar citations"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YuanGao-YG/google-scholar-stats/main/badge-citations.json&logo=google-scholar&logoColor=4285F4&style=flat-square" alt="Google Scholar Citations"></a> I also serve as a reviewer for ICLR, NeurIPS, ICML, CVPR, KDD, AAAI, ECCV, IEEE TMM, and IEEE TITS. <strong>I am actively seeking like-minded collaborators.</strong> If you are interested in my work, please feel free to contact me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.</p>
 </header>
 
 <h2 class="section-heading" id="-news">Latest News</h2>
@@ -40,7 +40,7 @@ redirect_from:
 
 [Inertial Video World Models](https://arxiv.org/abs/2611.22314)
 
-**Yuan Gao**, Fan Xu, Yu Guo, Yuxu Lu, Zhengru Fang, Hao Wu, Xiaomeng Huang <span class="author-role">(First Author)</span>
+**Yuan Gao**, Fan Xu, Yu Guo, Yuxu Lu, Zhengru Fang, Hao Wu, Xiaomeng Huang <span class="author-roles"><span class="author-role">First Author</span></span>
 
 <a href="https://arxiv.org/abs/2611.22314" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/InertialWorld" target="_blank">Code</a>
 </div>
@@ -53,7 +53,7 @@ redirect_from:
 
 [RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821)
 
-Hao Wu, Yuqi Li, **Yuan Gao**, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, Weiyan Wang, Yingli Tian, Xian Wu, Xiaomeng Huang <span class="author-role">(Co-first Author)</span>
+Hao Wu, Yuqi Li, **Yuan Gao**, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, Weiyan Wang, Yingli Tian, Xian Wu, Xiaomeng Huang <span class="author-roles"><span class="author-role">Co-first Author</span></span>
 
 <a href="https://arxiv.org/abs/2605.03821" target="_blank">Paper</a> | <a href="https://roboalign-r1.netlify.app/" target="_blank">Code</a>
 </div>
@@ -64,7 +64,7 @@ Hao Wu, Yuqi Li, **Yuan Gao**, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufen
 
 [PnP-Corrector: A Universal Correction Framework for Coupled Spatiotemporal Forecasting](https://arxiv.org/abs/2605.08935)
 
-Hao Wu, Fan Xu, Yuxu Lu, Penghao Zhao, Fan Zhang, Hao Jia, Yuxuan Liang, Ruijian Gou, Qingsong Wen, Xian Wu, Xiaomeng Huang, **Yuan Gao** <span class="author-role">(<strong>Corresponding author</strong>)</span>
+Hao Wu, Fan Xu, Yuxu Lu, Penghao Zhao, Fan Zhang, Hao Jia, Yuxuan Liang, Ruijian Gou, Qingsong Wen, Xian Wu, Xiaomeng Huang, **Yuan Gao** <span class="author-roles"><span class="author-role"><strong>Corresponding author</strong></span></span>
 
 <a href="https://arxiv.org/abs/2605.08935" target="_blank">Paper</a> | <a href="https://github.com/Alexander-wu/PnP-Corrector" target="_blank">Code</a>
 <img src="https://img.shields.io/github/stars/Alexander-wu/PnP-Corrector?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/Alexander-wu/PnP-Corrector?label=%F0%9F%94%A7%20Fork&color=green">
@@ -80,7 +80,7 @@ Hao Wu, Fan Xu, Yuxu Lu, Penghao Zhao, Fan Zhang, Hao Jia, Yuxuan Liang, Ruijian
 
 [NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020)
 
-**Yuan Gao**, Hao Wu, Fan Xu, Yanfei Xiang, Ruijian Gou, Ruiqi Shu, Qingsong Wen, Xian Wu, Kun Wang, Xiaomeng Huang <span class="author-role">(First Author)</span>
+**Yuan Gao**, Hao Wu, Fan Xu, Yanfei Xiang, Ruijian Gou, Ruiqi Shu, Qingsong Wen, Xian Wu, Kun Wang, Xiaomeng Huang <span class="author-roles"><span class="author-role">First Author</span></span>
 
 <a href="https://arxiv.org/abs/2505.21020" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/NeuralOM" target="_blank">Code</a>
 <img src="https://img.shields.io/github/stars/YuanGao-YG/NeuralOM?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/NeuralOM?label=%F0%9F%94%A7%20Fork&color=green">
@@ -97,7 +97,7 @@ Hao Wu, Fan Xu, Yuxu Lu, Penghao Zhao, Fan Zhang, Hao Jia, Yuxuan Liang, Ruijian
 
 [Turb-L1: Achieving Long-term Turbulence Tracing By Tackling Spectral Bias](https://arxiv.org/abs/2505.19038)
 
-Hao Wu, **Yuan Gao**, Zean Han, Fan Xu, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang, Xiaomeng Huang <span class="author-role">(Co-first Author)</span>
+Hao Wu, **Yuan Gao**, Zean Han, Fan Xu, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang, Xiaomeng Huang <span class="author-roles"><span class="author-role">Co-first Author</span></span>
 
 <a href="https://arxiv.org/abs/2505.19038" target="_blank">Paper</a> | <a href="https://github.com/easylearningscores/TurbL1_AI4Science" target="_blank">Code</a>
 <img src="https://img.shields.io/github/stars/easylearningscores/TurbL1_AI4Science?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/easylearningscores/TurbL1_AI4Science?label=%F0%9F%94%A7%20Fork&color=green">
@@ -111,7 +111,7 @@ Hao Wu, **Yuan Gao**, Zean Han, Fan Xu, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun 
 
 [Advanced long-term earth system forecasting](https://arxiv.org/abs/2505.19432)
 
-Hao Wu, **Yuan Gao**, Ruijian Gou, Xian Wu, Chuhan Wu, Huahui Yi, Johannes Brandstetter, Fan Xu, Kun Wang, Penghao Zhao, Hao Jia, Qi Song, Xinliang Liu, Juncai He, Shuhao Cao, Huanshuo Dong, Yanfei Xiang, Fan Zhang, Haixin Wang, Xingjian Shi, Qiufeng Wang, Shuaipeng Li, Ruobing Xie, Feng Tao, Yuxu Lu, Yu Guo, Yuntian Chen, Yuxuan Liang, Qingsong Wen, Wanli Ouyang, Deliang Chen, Niklas Boers, Xiaomeng Huang <span class="author-role">(<strong>Corresponding author</strong>, Co-first Author)</span>
+Hao Wu, **Yuan Gao**, Ruijian Gou, Xian Wu, Chuhan Wu, Huahui Yi, Johannes Brandstetter, Fan Xu, Kun Wang, Penghao Zhao, Hao Jia, Qi Song, Xinliang Liu, Juncai He, Shuhao Cao, Huanshuo Dong, Yanfei Xiang, Fan Zhang, Haixin Wang, Xingjian Shi, Qiufeng Wang, Shuaipeng Li, Ruobing Xie, Feng Tao, Yuxu Lu, Yu Guo, Yuntian Chen, Yuxuan Liang, Qingsong Wen, Wanli Ouyang, Deliang Chen, Niklas Boers, Xiaomeng Huang <span class="author-roles"><span class="author-role"><strong>Corresponding author</strong></span> <span class="author-role">Co-first Author</span></span>
 
 <a href="https://arxiv.org/abs/2505.19432" target="_blank">Paper</a> | <a href="https://github.com/Alexander-wu/TritonCast" target="_blank">Code</a>
 <img src="https://img.shields.io/github/stars/Alexander-wu/TritonCast?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/Alexander-wu/TritonCast?label=%F0%9F%94%A7%20Fork&color=green">
@@ -125,7 +125,7 @@ Hao Wu, **Yuan Gao**, Ruijian Gou, Xian Wu, Chuhan Wu, Huahui Yi, Johannes Brand
 
 [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://openreview.net/forum?id=9xGSeVolcN)
 
-**Yuan Gao**, Hao Wu, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang <span class="author-role">(First Author)</span>
+**Yuan Gao**, Hao Wu, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang <span class="author-roles"><span class="author-role">First Author</span></span>
 
 <a href="https://openreview.net/forum?id=9xGSeVolcN" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/OneForecast" target="_blank">Code</a>
 <img src="https://img.shields.io/github/stars/YuanGao-YG/OneForecast?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/OneForecast?label=%F0%9F%94%A7%20Fork&color=green">
@@ -139,7 +139,7 @@ Hao Wu, **Yuan Gao**, Ruijian Gou, Xian Wu, Chuhan Wu, Huahui Yi, Johannes Brand
 
 [OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621)
 
-Yu Guo, **Yuan Gao**, Yuxu Lu, Huilin Zhu, Ryan Wen Liu, Shengfeng He <span class="author-role">(Co-first Author)</span>
+Yu Guo, **Yuan Gao**, Yuxu Lu, Huilin Zhu, Ryan Wen Liu, Shengfeng He <span class="author-roles"><span class="author-role">Co-first Author</span></span>
 
 <a href="https://gy65896.github.io/projects/ECCV2024_OneRestore/index.html">Project</a> | <a href="https://arxiv.org/abs/2407.04621" target="_blank">Paper</a> | <a href="https://www.youtube.com/embed/AFr5tZdPlZ4">Video</a> | <a href="https://gy65896.github.io/papers/ECCV2024_OneRestore/OneRestore_poster.png">Poster</a> | <a href="https://onedrive.live.com/?id=CBB69E4E3408EBCD%2138238&resid=CBB69E4E3408EBCD%2138238&ithint=folder&authkey=%21AMxuLGqPrvXXQ4c&cid=cbb69e4e3408ebcd" target="_blank">Dataset</a> |
 <a href="https://github.com/gy65896/OneRestore" target="_blank">Code</a> <img src="https://img.shields.io/github/stars/gy65896/OneRestore?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/gy65896/OneRestore?label=%F0%9F%94%A7%20Fork&color=green">
@@ -152,7 +152,7 @@ Yu Guo, **Yuan Gao**, Yuxu Lu, Huilin Zhu, Ryan Wen Liu, Shengfeng He <span clas
 
 [Let You See in Haze and Sandstorm: Two-in-One Low-visibility Enhancement Network](https://ieeexplore.ieee.org/abstract/document/10216344)
 
-**Yuan Gao**, Wenyu Xu, Yuxu Lu <span class="author-role">(First Author)</span>
+**Yuan Gao**, Wenyu Xu, Yuxu Lu <span class="author-roles"><span class="author-role">First Author</span></span>
 
 <a href="https://ieeexplore.ieee.org/abstract/document/10216344" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/TOENet" target="_blank">Code</a>
 <img src="https://img.shields.io/github/stars/YuanGao-YG/TOENet?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/TOENet?label=%F0%9F%94%A7%20Fork&color=green">
@@ -165,7 +165,7 @@ Yu Guo, **Yuan Gao**, Yuxu Lu, Huilin Zhu, Ryan Wen Liu, Shengfeng He <span clas
 
 [Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weather](https://www.sciencedirect.com/science/article/pii/S0964569123000030)
 
-Jingxiang Qu, **Yuan Gao**, Yuxu Lu, Wenyu Xu, Ryan Wen Liu <span class="author-role">(Co-first Author)</span>
+Jingxiang Qu, **Yuan Gao**, Yuxu Lu, Wenyu Xu, Ryan Wen Liu <span class="author-roles"><span class="author-role">Co-first Author</span></span>
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0964569123000030" target="_blank">Paper</a> | <a href="https://github.com/YuanGao-YG/LPSNet" target="_blank">Code</a>
 <img src="https://img.shields.io/github/stars/YuanGao-YG/LPSNet?label=%F0%9F%8C%9F%20Star&color=blue"> <img src="https://img.shields.io/github/forks/YuanGao-YG/LPSNet?label=%F0%9F%94%A7%20Fork&color=green">
@@ -178,34 +178,34 @@ Jingxiang Qu, **Yuan Gao**, Yuxu Lu, Wenyu Xu, Ryan Wen Liu <span class="author-
 
 - <span class="publication-title">[Inertial Video World Models](https://arxiv.org/abs/2611.22314)</span>
   <span class="publication-authors">**Yuan Gao**, Fan Xu, Yu Guo, Yuxu Lu, Zhengru Fang, Hao Wu, Xiaomeng Huang</span>
-  <span class="publication-meta">arXiv 2026 <span class="publication-role">(First Author)</span></span>
+  <span class="publication-meta">arXiv 2026 <span class="publication-role">First Author</span></span>
 - <span class="publication-title">[RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models](https://arxiv.org/abs/2605.03821)</span>
   <span class="publication-authors">Hao Wu, Yuqi Li, **Yuan Gao**, Fan Xu, Fan Zhang, Kun Wang, Penghao Zhao, Qiufeng Wang, Yizhou Zhao, Weiyan Wang, Yingli Tian, Xian Wu, Xiaomeng Huang</span>
-  <span class="publication-meta">NeurIPS 2026 <span class="publication-role">(Co-first Author)</span></span>
+  <span class="publication-meta">NeurIPS 2026 <span class="publication-role">Co-first Author</span></span>
 
 <h3 class="publication-category" id="scientific-machine-learning">Scientific Machine Learning</h3>
 
 - <span class="publication-title">[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://openreview.net/forum?id=9xGSeVolcN)</span>
   <span class="publication-authors">**Yuan Gao**, Hao Wu, Huanshuo Dong, Fan Xu, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang</span>
-  <span class="publication-meta">ICML 2025, CCF-A <span class="publication-role">(First Author)</span></span>
+  <span class="publication-meta">ICML 2025, CCF-A <span class="publication-role">First Author</span></span>
 - <span class="publication-title">[NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020)</span>
   <span class="publication-authors">**Yuan Gao**, Hao Wu, Fan Xu, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Kun Wang, Xiaomeng Huang</span>
-  <span class="publication-meta">AAAI 2026, CCF-A <span class="publication-role">(First Author)</span></span>
+  <span class="publication-meta">AAAI 2026, CCF-A <span class="publication-role">First Author</span></span>
 - <span class="publication-title">[PnP-Corrector: A Universal Correction Framework for Coupled Spatiotemporal Forecasting](https://arxiv.org/abs/2605.08935)</span>
   <span class="publication-authors">Hao Wu, Fan Xu, Yuxu Lu, Penghao Zhao, Fan Zhang, Hao Jia, Yuxuan Liang, Ruijian Gou, Qingsong Wen, Xian Wu, Xiaomeng Huang, **Yuan Gao**</span>
-  <span class="publication-meta">ICML 2026 <span class="publication-role">(<strong>Corresponding author</strong>)</span></span>
+  <span class="publication-meta">ICML 2026 <span class="publication-role"><strong>Corresponding author</strong></span></span>
 - <span class="publication-title">[Tyche: One Step Flow for Efficient Probabilistic Weather Forecasting](https://arxiv.org/abs/2605.06916)</span>
   <span class="publication-authors">Fan Xu, **Yuan Gao**, Kun Wang, Rui Su, Fenghua Ling, Hao Wu, Wanli Ouyang</span>
-  <span class="publication-meta">NeurIPS 2026 <span class="publication-role">(Co-first Author)</span></span>
+  <span class="publication-meta">NeurIPS 2026 <span class="publication-role">Co-first Author</span></span>
 - <span class="publication-title">[Differential-Integral Neural Operator for Long-Term Turbulence Forecasting](https://arxiv.org/abs/2509.21196)</span>
   <span class="publication-authors">Hao Wu, **Yuan Gao**, Fan Xu, Fan Zhang, Qingsong Wen, Kun Wang, Xiaomeng Huang, Xian Wu</span>
-  <span class="publication-meta">KDD 2026 <span class="publication-role">(Co-first Author)</span></span>
+  <span class="publication-meta">KDD 2026 <span class="publication-role">Co-first Author</span></span>
 - <span class="publication-title">[Spatiotemporal Forecasting as Planning: A Model-Based Reinforcement Learning Approach with Generative World Models](https://arxiv.org/abs/2510.04020)</span>
   <span class="publication-authors">Hao Wu, **Yuan Gao**, Xingjian Shi, Shuaipeng Li, Fan Xu, Fan Zhang, Zhihong Zhu, Weiyan Wang, Xiao Luo, Kun Wang, Xian Wu, Xiaomeng Huang</span>
-  <span class="publication-meta">arXiv 2025 <span class="publication-role">(Co-first Author)</span></span>
+  <span class="publication-meta">arXiv 2025 <span class="publication-role">Co-first Author</span></span>
 - <span class="publication-title">[Advanced long-term earth system forecasting by learning the small-scale nature](https://arxiv.org/abs/2505.19432)</span>
   <span class="publication-authors">Hao Wu, **Yuan Gao**, Ruijian Gou, Xian Wu, Chuhan Wu, Huahui Yi, Johannes Brandstetter, Fan Xu, Kun Wang, Penghao Zhao, Hao Jia, Qi Song, Xinliang Liu, Juncai He, Shuhao Cao, Huanshuo Dong, Yanfei Xiang, Fan Zhang, Haixin Wang, Xingjian Shi, Qiufeng Wang, Shuaipeng Li, Ruobing Xie, Feng Tao, Yuxu Lu, Yu Guo, Yuntian Chen, Yuxuan Liang, Qingsong Wen, Wanli Ouyang, Deliang Chen, Niklas Boers, Xiaomeng Huang</span>
-  <span class="publication-meta">arXiv 2025 <span class="publication-role">(<strong>Corresponding author</strong>, Co-first Author)</span></span>
+  <span class="publication-meta">arXiv 2025 <span class="publication-role"><strong>Corresponding author</strong></span> <span class="publication-role">Co-first Author</span></span>
 - <span class="publication-title">[An Exterior-Embedding Neural Operator Framework for Preserving Conservation Laws](https://arxiv.org/abs/2511.16573)</span>
   <span class="publication-authors">Huanshuo Dong, Hong Wang, Hao Wu, Zhiwei Zhuang, Xuanze Yang, Ruiqi Shu, **Yuan Gao**, Xiaomeng Huang</span>
   <span class="publication-meta">KDD 2026</span>
@@ -214,16 +214,16 @@ Jingxiang Qu, **Yuan Gao**, Yuxu Lu, Wenyu Xu, Ryan Wen Liu <span class="author-
   <span class="publication-meta">arXiv 2025</span>
 - <span class="publication-title">[Turb-L1: Achieving Long-term Turbulence Tracing By Tackling Spectral Bias](https://arxiv.org/abs/2505.19038)</span>
   <span class="publication-authors">Hao Wu, **Yuan Gao**, Zean Han, Fan Xu, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang, Xiaomeng Huang</span>
-  <span class="publication-meta">arXiv 2025 <span class="publication-role">(Co-first Author)</span></span>
+  <span class="publication-meta">arXiv 2025 <span class="publication-role">Co-first Author</span></span>
 - <span class="publication-title">[OceanFlow: Coherent Flow Matching for Probabilistic Ocean Modeling](https://arxiv.org/abs/2610.15518)</span>
   <span class="publication-authors">**Yuan Gao**, Fan Xu, Hao Wu, Xiaomeng Huang</span>
-  <span class="publication-meta">arXiv 2026 <span class="publication-role">(Co-first Author)</span></span>
+  <span class="publication-meta">arXiv 2026 <span class="publication-role">Co-first Author</span></span>
 - <span class="publication-title">[NeuralOGCM: Differentiable Ocean Modeling with Learnable Physics](https://arxiv.org/abs/2512.11525)</span>
   <span class="publication-authors">Hao Wu, **Yuan Gao**, Fan Xu, Fan Zhang, Guangliang Liu, Yuxuan Liang, Xiaomeng Huang</span>
-  <span class="publication-meta">arXiv 2025 <span class="publication-role">(Co-first Author)</span></span>
+  <span class="publication-meta">arXiv 2025 <span class="publication-role">Co-first Author</span></span>
 - <span class="publication-title">[VISION: Prompting Ocean Vertical Velocity Reconstruction from Incomplete Observations](https://arxiv.org/abs/2509.21477)</span>
   <span class="publication-authors">**Yuan Gao**, Hao Wu, Qingsong Wen, Kun Wang, Xian Wu, Xiaomeng Huang</span>
-  <span class="publication-meta">arXiv 2025 <span class="publication-role">(Co-first Author)</span></span>
+  <span class="publication-meta">arXiv 2025 <span class="publication-role">Co-first Author</span></span>
 - <span class="publication-title">[BeamVQ: Beam Search with Vector Quantization to Mitigate Data Scarcity in Physical Spatiotemporal Forecasting](https://arxiv.org/abs/2502.18925)</span>
   <span class="publication-authors">Weiyan Wang, Xingjian Shi, **Yuan Gao**, Rui Ray Chen, Kun Wang, Fan Xu, Jinbao Xue, Shuaipeng Li, Yangyu Tao, Di Wang, Hao Wu, Xiaomeng Huang</span>
   <span class="publication-meta">arXiv 2025</span>
@@ -232,13 +232,13 @@ Jingxiang Qu, **Yuan Gao**, Yuxu Lu, Wenyu Xu, Ryan Wen Liu <span class="author-
 
 - <span class="publication-title">[Let You See in Haze and Sandstorm: Two-in-One Low-Visibility Enhancement Network](https://ieeexplore.ieee.org/abstract/document/10216344)</span>
   <span class="publication-authors">**Yuan Gao**, Wenyu Xu, Yuxu Lu</span>
-  <span class="publication-meta">IEEE TIM 2023, JCR Q1 <span class="publication-role">(First Author)</span></span>
+  <span class="publication-meta">IEEE TIM 2023, JCR Q1 <span class="publication-role">First Author</span></span>
 - <span class="publication-title">[OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621)</span>
   <span class="publication-authors">Yu Guo, **Yuan Gao**, Yuxu Lu, Huilin Zhu, Ryan Wen Liu, Shengfeng He</span>
-  <span class="publication-meta">ECCV 2024, CCF-B <span class="publication-role">(Co-first Author)</span></span>
+  <span class="publication-meta">ECCV 2024, CCF-B <span class="publication-role">Co-first Author</span></span>
 - <span class="publication-title">[Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weathers](https://www.sciencedirect.com/science/article/pii/S0964569123000030)</span>
   <span class="publication-authors">Jingxiang Qu, **Yuan Gao**, Yuxu Lu, Wenyu Xu, Ryan Wen Liu</span>
-  <span class="publication-meta">OCMA 2023, JCR Q1 <span class="publication-role">(Co-first Author)</span></span>
+  <span class="publication-meta">OCMA 2023, JCR Q1 <span class="publication-role">Co-first Author</span></span>
 - <span class="publication-title">[AoSRNet: All-in-One Scene Recovery Networks via Multi-knowledge Integration](https://www.sciencedirect.com/science/article/pii/S0950705124004209)</span>
   <span class="publication-authors">Yuxu Lu, Dong Yang, **Yuan Gao**, Ryan Wen Liu, Jun Liu, Yu Guo</span>
   <span class="publication-meta">KBS 2024, JCR Q1</span>
@@ -265,7 +265,7 @@ Jingxiang Qu, **Yuan Gao**, Yuxu Lu, Wenyu Xu, Ryan Wen Liu <span class="author-
 
 - <span class="publication-title">[OMNIFLOW: A Physics-Grounded Multimodal Agent for Generalized Scientific Reasoning](https://arxiv.org/abs/2603.15797)</span>
   <span class="publication-authors">Hao Wu, Yongheng Zhang, **Yuan Gao**, Fan Xu, Fan Zhang, Ruobing Xie, Ruijian Gou, Yuxuan Liang, Xiaomeng Huang, Xian Wu</span>
-  <span class="publication-meta">arXiv 2026 <span class="publication-role">(Co-first Author)</span></span>
+  <span class="publication-meta">arXiv 2026 <span class="publication-role">Co-first Author</span></span>
 - <span class="publication-title">[Rethinking facial expression recognition in the era of multimodal large language models: Benchmark, datasets, and beyond](https://arxiv.org/abs/2511.00389)</span>
   <span class="publication-authors">Fan Zhang, Haoxuan Li, Shengju Qian, Xin Wang, Zheng Lian, Hao Wu, Zhihong Zhu, **Yuan Gao**, Qiankun Li, Yefeng Zheng, Zhouchen Lin, Pheng-Ann Heng</span>
   <span class="publication-meta">arXiv 2025</span>
